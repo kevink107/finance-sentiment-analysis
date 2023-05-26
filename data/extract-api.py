@@ -5,8 +5,8 @@ from sec_api.index import ExtractorApi
 # To run the program in terminal: python3 test-api.py
 
 # API Keys
-queryApi = QueryApi(api_key="01a45f1a399cfae01bab0ebe6c90a8c8bb320c46f96180635eb208f16b2d65e0")
-extractorApi = ExtractorApi("01a45f1a399cfae01bab0ebe6c90a8c8bb320c46f96180635eb208f16b2d65e0")
+queryApi = QueryApi(api_key="d0532cfd64de3862cfa0ff24ee3b88fbaf543d61bb0c0e6d5ec54306f0d8dde1")
+extractorApi = ExtractorApi("d0532cfd64de3862cfa0ff24ee3b88fbaf543d61bb0c0e6d5ec54306f0d8dde1")
 
 
 with open("companies.json", "r") as companies_json_file: 
@@ -17,7 +17,7 @@ forms = data["Forms"]
 
 for i in range(0, len(companies)):
   for j in range(0, len(forms)):
-    companyName = companies[i]["companyName"]
+    # companyName = companies[i]["companyName"]
     ticker = companies[i]["ticker"]
     formType = forms[j]["formType"]
     formDates = forms[j]["dates"]
@@ -26,8 +26,8 @@ for i in range(0, len(companies)):
     for k in range(0, len(formDates)):
       filedAt = formDates[k]["filedAt"]
       year = formDates[k]["year"]
-      
-      print(companyName + ": " + year + " " + " " + formType)
+
+      # print(companyName + ": " + year + " " + " " + formType)
 
       query = {
         "query": { "query_string": {

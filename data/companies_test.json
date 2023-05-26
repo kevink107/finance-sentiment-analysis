@@ -1,0 +1,40 @@
+{
+    "Companies": [
+        {
+            "companyName": "Tesla, Inc",
+            "ticker": "TSLA"
+        }  
+    ],
+    "Forms": [
+        {
+            "formType": "10-K",
+            "dates": [
+                {
+                    "year": "2022",
+                    "filedAt": "{2022-01-01 TO 2022-12-31}"
+                },
+                {
+                    "year": "2021",
+                    "filedAt": "{2021-01-01 TO 2021-12-31}"
+                }
+            ]
+        },
+        {
+            "formType": "10-Q",
+            "dates": [
+                {
+                    "year": "2022",
+                    "filedAt": "{2022-01-01 TO 2022-05-01}"
+                },
+                {
+                    "year": "2022",
+                    "filedAt": "{2022-05-01 TO 2022-08-01}"
+                },
+                {
+                    "year": "2022",
+                    "filedAt": "{2022-08-01 TO 2022-11-01}"
+                }
+            ]
+        }
+    ]
+}

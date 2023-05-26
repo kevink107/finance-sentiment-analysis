@@ -1,9 +1,98 @@
 {
     "Companies": [
         {
-            "companyName": "Tesla, Inc",
+            "ticker": "AAPL"
+        },
+        {
+            "ticker": "MSFT"
+        },
+        {
+            "ticker": "AMZN"
+        },
+        {
+            "ticker": "NVDA"
+        },
+        {
+            "ticker": "GOOGL"
+        },
+        {
+            "ticker": "BRK.B"
+        },
+        {
+            "ticker": "GOOG"
+        },
+        {
+            "ticker": "META"
+        },
+        {
+            "ticker": "UNH"
+        },
+        {
+            "ticker": "XOM"
+        },
+        {
             "ticker": "TSLA"
-        }  
+        },
+        {
+            "ticker": "JNJ"
+        },
+        {
+            "ticker": "JPM"
+        },
+        {
+            "ticker": "PG"
+        },
+        {
+            "ticker": "V"
+        },
+        {
+            "ticker": "LLY"
+        },
+        {
+            "ticker": "MA"
+        },
+        {
+            "ticker": "MRK"
+        },
+        {
+            "ticker": "HD"
+        },
+        {
+            "ticker": "CVX"
+        },
+        {
+            "ticker": "PEP"
+        },
+        {
+            "ticker": "ABBV"
+        },
+        {
+            "ticker": "AVGO"
+        },
+        {
+            "ticker": "KO"
+        },
+        {
+            "ticker": "COST"
+        },
+        {
+            "ticker": "MCD"
+        },
+        {
+            "ticker": "TMO"
+        },
+        {
+            "ticker": "PFE"
+        },
+        {
+            "ticker": "WMT"
+        },
+        {
+            "ticker": "ABT"
+        },
+        {
+            "ticker": "BAC"
+        }
     ],
     "Forms": [
         {
@@ -12,29 +101,8 @@
                 {
                     "year": "2022",
                     "filedAt": "{2022-01-01 TO 2022-12-31}"
-                },
-                {
-                    "year": "2021",
-                    "filedAt": "{2021-01-01 TO 2021-12-31}"
-                }
-            ]
-        },
-        {
-            "formType": "10-Q",
-            "dates": [
-                {
-                    "year": "2022",
-                    "filedAt": "{2022-01-01 TO 2022-05-01}"
-                },
-                {
-                    "year": "2022",
-                    "filedAt": "{2022-05-01 TO 2022-08-01}"
-                },
-                {
-                    "year": "2022",
-                    "filedAt": "{2022-08-01 TO 2022-11-01}"
                 }
             ]
         }
     ]
-}
+} 
