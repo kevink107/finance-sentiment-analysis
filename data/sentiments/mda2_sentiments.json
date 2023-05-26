@@ -1,0 +1,92 @@
+{
+    "MRK_mda_2022": {
+        "running_score_positive": 7.179485499858856,
+        "running_score_neutral": 0.702264878898859,
+        "running_score_negative": 0.11824953183531761,
+        "chunks": 8,
+        "avg_positive": 0.897435687482357,
+        "avg_neutral": 0.08778310986235738,
+        "avg_negative": 0.014781191479414701
+    },
+    "MSFT_mda_2022": {
+        "running_score_positive": 7.104115545749664,
+        "running_score_neutral": 0.748972624540329,
+        "running_score_negative": 0.14691178128123283,
+        "chunks": 8,
+        "avg_positive": 0.888014443218708,
+        "avg_neutral": 0.09362157806754112,
+        "avg_negative": 0.018363972660154104
+    },
+    "KO_mda_2022": {
+        "running_score_positive": 7.143207013607025,
+        "running_score_neutral": 0.6444982066750526,
+        "running_score_negative": 0.21229480672627687,
+        "chunks": 8,
+        "avg_positive": 0.8929008767008781,
+        "avg_neutral": 0.08056227583438158,
+        "avg_negative": 0.02653685084078461
+    },
+    "MCD_mda_2022": {
+        "running_score_positive": 0.9357715249061584,
+        "running_score_neutral": 0.04216158762574196,
+        "running_score_negative": 0.022066902369260788,
+        "chunks": 1,
+        "avg_positive": 0.9357715249061584,
+        "avg_neutral": 0.04216158762574196,
+        "avg_negative": 0.022066902369260788
+    },
+    "META_mda_2022": {
+        "running_score_positive": 6.060215592384338,
+        "running_score_neutral": 0.7323993965983391,
+        "running_score_negative": 0.2073850128799677,
+        "chunks": 7,
+        "avg_positive": 0.865745084626334,
+        "avg_neutral": 0.10462848522833415,
+        "avg_negative": 0.029626430411423956
+    },
+    "HD_mda_2022": {
+        "running_score_positive": 5.998278379440308,
+        "running_score_neutral": 0.8105841688811779,
+        "running_score_negative": 0.19113758020102978,
+        "chunks": 7,
+        "avg_positive": 0.8568969113486153,
+        "avg_neutral": 0.11579773841159684,
+        "avg_negative": 0.027305368600147113
+    },
+    "JPM_mda_2022": {
+        "running_score_positive": 0.9468302130699158,
+        "running_score_neutral": 0.03612152487039566,
+        "running_score_negative": 0.017048243433237076,
+        "chunks": 1,
+        "avg_positive": 0.9468302130699158,
+        "avg_neutral": 0.03612152487039566,
+        "avg_negative": 0.017048243433237076
+    },
+    "JNJ_mda_2022": {
+        "running_score_positive": 6.648961842060089,
+        "running_score_neutral": 1.251708360388875,
+        "running_score_negative": 0.09932977659627795,
+        "chunks": 8,
+        "avg_positive": 0.8311202302575111,
+        "avg_neutral": 0.15646354504860938,
+        "avg_negative": 0.012416222074534744
+    },
+    "LLY_mda_2022": {
+        "running_score_positive": 5.2445244789123535,
+        "running_score_neutral": 1.6362886503338814,
+        "running_score_negative": 0.11918680556118488,
+        "chunks": 7,
+        "avg_positive": 0.7492177827017648,
+        "avg_neutral": 0.23375552147626877,
+        "avg_negative": 0.017026686508740698
+    },
+    "NVDA_mda_2022": {
+        "running_score_positive": 5.216724455356598,
+        "running_score_neutral": 1.4392686374485493,
+        "running_score_negative": 0.34400689508765936,
+        "chunks": 7,
+        "avg_positive": 0.7452463507652283,
+        "avg_neutral": 0.20560980534979276,
+        "avg_negative": 0.04914384215537991
+    }
+}

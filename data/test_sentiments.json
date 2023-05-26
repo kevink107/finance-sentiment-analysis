@@ -1,0 +1,20 @@
+{
+    "AAPL_mda_2022": {
+        "running_score_positive": 6.456407010555267,
+        "running_score_neutral": 0.3958861827850342,
+        "running_score_negative": 0.1477067074738443,
+        "chunks": 7,
+        "avg_positive": 0.9223438586507525,
+        "avg_neutral": 0.056555168969290595,
+        "avg_negative": 0.021100958210549185
+    },
+    "ABBV_mda_2022": {
+        "running_score_positive": 6.558199524879456,
+        "running_score_neutral": 1.1946707628667355,
+        "running_score_negative": 0.24713003309443593,
+        "chunks": 8,
+        "avg_positive": 0.819774940609932,
+        "avg_neutral": 0.14933384535834193,
+        "avg_negative": 0.03089125413680449
+    }
+}
