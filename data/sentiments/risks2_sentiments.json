@@ -1,0 +1,92 @@
+{
+    "MCD_risks_2022": {
+        "running_score_positive": 0.9224458336830139,
+        "running_score_neutral": 0.05271954461932182,
+        "running_score_negative": 0.024834608659148216,
+        "chunks": 1,
+        "avg_positive": 0.9224458336830139,
+        "avg_neutral": 0.05271954461932182,
+        "avg_negative": 0.024834608659148216
+    },
+    "MSFT_risks_2022": {
+        "running_score_positive": 4.407855600118637,
+        "running_score_neutral": 2.250124879181385,
+        "running_score_negative": 0.3420196417719126,
+        "chunks": 7,
+        "avg_positive": 0.6296936571598053,
+        "avg_neutral": 0.32144641131162643,
+        "avg_negative": 0.04885994882455894
+    },
+    "HD_risks_2022": {
+        "running_score_positive": 5.211735486984253,
+        "running_score_neutral": 1.6508597433567047,
+        "running_score_negative": 0.13740495406091213,
+        "chunks": 7,
+        "avg_positive": 0.7445336409977504,
+        "avg_neutral": 0.23583710619381495,
+        "avg_negative": 0.019629279151558876
+    },
+    "JNJ_risks_2022": {
+        "running_score_positive": 6.475476562976837,
+        "running_score_neutral": 1.2289621122181416,
+        "running_score_negative": 0.29556127917021513,
+        "chunks": 8,
+        "avg_positive": 0.8094345703721046,
+        "avg_neutral": 0.1536202640272677,
+        "avg_negative": 0.03694515989627689
+    },
+    "LLY_risks_2022": {
+        "running_score_positive": 5.8041887283325195,
+        "running_score_neutral": 1.0695739053189754,
+        "running_score_negative": 0.12623740918934345,
+        "chunks": 7,
+        "avg_positive": 0.8291698183332171,
+        "avg_neutral": 0.15279627218842506,
+        "avg_negative": 0.018033915598477637
+    },
+    "MRK_risks_2022": {
+        "running_score_positive": 6.690432488918304,
+        "running_score_neutral": 1.1204743944108486,
+        "running_score_negative": 0.18909302446991205,
+        "chunks": 8,
+        "avg_positive": 0.836304061114788,
+        "avg_neutral": 0.14005929930135608,
+        "avg_negative": 0.023636628058739007
+    },
+    "JPM_risks_2022": {
+        "running_score_positive": 6.251961946487427,
+        "running_score_neutral": 1.6004581078886986,
+        "running_score_negative": 0.14757989440113306,
+        "chunks": 8,
+        "avg_positive": 0.7814952433109283,
+        "avg_neutral": 0.20005726348608732,
+        "avg_negative": 0.018447486800141633
+    },
+    "KO_risks_2022": {
+        "running_score_positive": 6.157556116580963,
+        "running_score_neutral": 0.6886599753051996,
+        "running_score_negative": 0.15378382243216038,
+        "chunks": 7,
+        "avg_positive": 0.8796508737972805,
+        "avg_neutral": 0.09837999647217137,
+        "avg_negative": 0.021969117490308627
+    },
+    "META_risks_2022": {
+        "running_score_positive": 5.206543475389481,
+        "running_score_neutral": 1.4159248173236847,
+        "running_score_negative": 0.37753168400377035,
+        "chunks": 7,
+        "avg_positive": 0.7437919250556401,
+        "avg_neutral": 0.20227497390338353,
+        "avg_negative": 0.05393309771482434
+    },
+    "NVDA_risks_2022": {
+        "running_score_positive": 4.834592044353485,
+        "running_score_neutral": 1.9406275749206543,
+        "running_score_negative": 0.22478043287992477,
+        "chunks": 7,
+        "avg_positive": 0.6906560063362122,
+        "avg_neutral": 0.27723251070295063,
+        "avg_negative": 0.03211149041141782
+    }
+}

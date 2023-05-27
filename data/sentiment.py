@@ -19,7 +19,6 @@ def get_sentiments_json(directory):
         f = os.path.join(directory, file)
 
         if os.path.isfile(f):
-            # file_path = "./" + str(f)
             file_path = str(f)
             print(file_path)
 
@@ -35,11 +34,14 @@ def get_sentiments_json(directory):
 
                 while True:
                     chunk = text_file.read(WORDS_PER_CHUNK)
+
                     if not chunk:
                         break
-                    print(chunk)
+
+                    # print(chunk)
                     payload = {"text": chunk}
                     response = query(payload)
+
                     if 'error' in response and response['error'] == 'Model ProsusAI/finbert is currently loading':
                         estimated_time = response['estimated_time']
                         print(f"Model is loading. Retrying after {estimated_time} seconds...")
@@ -88,6 +90,6 @@ def get_sentiments_json(directory):
 # get_sentiments_json('mda1')
 # get_sentiments_json('mda2')
 # get_sentiments_json('mda3')
-get_sentiments_json('risks1')
+# get_sentiments_json('risks1')
 # get_sentiments_json('risks2')
-# get_sentiments_json('risks3')
+get_sentiments_json('risks3')

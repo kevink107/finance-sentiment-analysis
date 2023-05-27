@@ -1,0 +1,92 @@
+{
+    "BRK": {
+        "running_score_positive": 6.904945731163025,
+        "running_score_neutral": 0.9702600762248039,
+        "running_score_negative": 0.12479427456855774,
+        "chunks": 8,
+        "avg_positive": 0.8631182163953781,
+        "avg_neutral": 0.12128250952810049,
+        "avg_negative": 0.015599284321069717
+    },
+    "ABT_risks_2022": {
+        "running_score_positive": 5.799182951450348,
+        "running_score_neutral": 2.0268197767436504,
+        "running_score_negative": 0.17399719636887312,
+        "chunks": 8,
+        "avg_positive": 0.7248978689312935,
+        "avg_neutral": 0.2533524720929563,
+        "avg_negative": 0.02174964954610914
+    },
+    "AAPL_risks_2022": {
+        "running_score_positive": 6.798474907875061,
+        "running_score_neutral": 1.0388671047985554,
+        "running_score_negative": 0.16265786159783602,
+        "chunks": 8,
+        "avg_positive": 0.8498093634843826,
+        "avg_neutral": 0.12985838809981942,
+        "avg_negative": 0.020332232699729502
+    },
+    "BAC_risks_2022": {
+        "running_score_positive": 5.506707727909088,
+        "running_score_neutral": 1.3664992693811655,
+        "running_score_negative": 0.12679306417703629,
+        "chunks": 7,
+        "avg_positive": 0.7866725325584412,
+        "avg_neutral": 0.1952141813401665,
+        "avg_negative": 0.018113294882433757
+    },
+    "AMZN_risks_2022": {
+        "running_score_positive": 5.861813068389893,
+        "running_score_neutral": 0.9992289394140244,
+        "running_score_negative": 0.13895808346569538,
+        "chunks": 7,
+        "avg_positive": 0.8374018669128418,
+        "avg_neutral": 0.14274699134486063,
+        "avg_negative": 0.019851154780813625
+    },
+    "GOOG_risks_2022": {
+        "running_score_positive": 5.741244256496429,
+        "running_score_neutral": 1.148144420236349,
+        "running_score_negative": 0.11061136890202761,
+        "chunks": 7,
+        "avg_positive": 0.8201777509280613,
+        "avg_neutral": 0.1640206314623356,
+        "avg_negative": 0.015801624128861085
+    },
+    "CVX_risks_2022": {
+        "running_score_positive": 5.265298545360565,
+        "running_score_neutral": 1.5815444998443127,
+        "running_score_negative": 0.15315698366612196,
+        "chunks": 7,
+        "avg_positive": 0.7521855064800808,
+        "avg_neutral": 0.22593492854918754,
+        "avg_negative": 0.02187956909516028
+    },
+    "COST_risks_2022": {
+        "running_score_positive": 5.459662437438965,
+        "running_score_neutral": 1.2938117254525423,
+        "running_score_negative": 0.24652564339339733,
+        "chunks": 7,
+        "avg_positive": 0.779951776776995,
+        "avg_neutral": 0.18483024649322033,
+        "avg_negative": 0.03521794905619962
+    },
+    "AVGO_risks_2022": {
+        "running_score_positive": 6.011201977729797,
+        "running_score_neutral": 0.8794668484479189,
+        "running_score_negative": 0.1093310248106718,
+        "chunks": 7,
+        "avg_positive": 0.8587431396756854,
+        "avg_neutral": 0.12563812120684556,
+        "avg_negative": 0.015618717830095972
+    },
+    "ABBV_risks_2022": {
+        "running_score_positive": 5.5973915457725525,
+        "running_score_neutral": 1.180185105651617,
+        "running_score_negative": 0.22242337837815285,
+        "chunks": 7,
+        "avg_positive": 0.7996273636817932,
+        "avg_neutral": 0.1685978722359453,
+        "avg_negative": 0.03177476833973612
+    }
+}
