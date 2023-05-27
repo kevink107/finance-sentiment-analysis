@@ -1,6 +1,6 @@
- ITEM 7. MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
 
-The following discussion and analysis of our financial condition and results of operations should be read in conjunction with &#8220;Item 1A. Risk Factors&#8221;, our Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks described elsewhere in this Annual Report on Form 10-K, before deciding to purchase, hold or sell shares of our common stock. 
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with "Item 1A. Risk Factors", our Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks described elsewhere in this Annual Report on Form 10-K, before deciding to purchase, hold or sell shares of our common stock. 
 
 Overview 
 
@@ -8,7 +8,7 @@ Our Company and Our Businesses
 
 NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. Since our original focus on PC graphics, we have expanded to several other large and important computationally intensive fields. Fueled by the sustained demand for exceptional 3D graphics and the scale of the gaming market, NVIDIA has leveraged its GPU architecture to create platforms for scientific computing, AI, data science, AV, robotics, AR and VR. 
 
-Our two operating segments are "Graphics" and "Compute &#38; Networking." Refer to Note 17 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+Our two operating segments are "Graphics" and "Compute & Networking." Refer to Note 17 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
 
 Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. 
 
@@ -24,7 +24,7 @@ Demand for our products is based on many factors, including our product introduc
 
 Supply 
 
-Our manufacturing lead times are very long and in some cases, extend to be twelve months or longer, which requires us to make estimates of customers&#8217; future demand. These conditions could lead to a significant mismatch between supply and demand, giving rise to product shortages or excess inventory, and make our demand forecast more uncertain. To 
+Our manufacturing lead times are very long and in some cases, extend to be twelve months or longer, which requires us to make estimates of customers' future demand. These conditions could lead to a significant mismatch between supply and demand, giving rise to product shortages or excess inventory, and make our demand forecast more uncertain. To 
 
 have shorter shipment lead times and quicker delivery schedules for our customers, we may build finished products and maintain inventory for anticipated periods of growth which do not occur, anticipating demand that does not materialize, or for what we believe is pent-up demand. During fiscal year 2022, we made substantial strides in broadening our supply base to scale our company and better serve customer demand. We expect to remain supply-constrained into the first half of fiscal year 2023, primarily in Gaming and Networking. We have placed non-cancellable inventory orders for certain supply in advance of our historical lead times, paid premiums and provided deposits to secure future supply and capacity and may need to continue to do so in the future. Ordering product in advance of our historical lead times to secure supply in a constrained environment may trigger excess inventory or other charges if there is a partial or complete reduction in long-term demand for our products or if such demand is served by our competitors. Given our long lead times on inventory purchasing, demand may be perishable or may disappear. Given our current long lead times, we may order components before our product design is finalized and changes to the product design or end demand could trigger excess inventory. Our supply deliveries and production may be non-linear within a quarter or year which could cause changes to expected revenue or cash flows. 
 
@@ -38,7 +38,7 @@ We believe our existing balances of cash, cash equivalents and marketable securi
 
 Fiscal Year 2022 Summary 
 
-##TABLE_START &#160; Year Ended &#160; January 30, 2022 January 31, 2021 Change ($ in millions, except per share data) Revenue $ 26,914 $ 16,675 Up 61% Gross margin 64.9 % 62.3 % Up 260 bps Operating expenses $ 7,434 $ 5,864 Up 27% Income from operations $ 10,041 $ 4,532 Up 122% Net income $ 9,752 $ 4,332 Up 125% Net income per diluted share $ 3.85 $ 1.73 Up 123% ##TABLE_END
+##TABLE_START  Year Ended  January 30, 2022 January 31, 2021 Change ($ in millions, except per share data) Revenue $ 26,914 $ 16,675 Up 61% Gross margin 64.9 % 62.3 % Up 260 bps Operating expenses $ 7,434 $ 5,864 Up 27% Income from operations $ 10,041 $ 4,532 Up 122% Net income $ 9,752 $ 4,332 Up 125% Net income per diluted share $ 3.85 $ 1.73 Up 123% ##TABLE_END
 
 We specialize in markets where our computing platforms can provide tremendous acceleration for applications. These platforms incorporate processors, interconnects, software, algorithms, systems, and services to deliver unique value. Our platforms address four large markets where our expertise is critical: Gaming, Data Center, Professional Visualization, and Automotive. 
 
@@ -82,7 +82,7 @@ In our Automotive platform, we unveiled the NVIDIA DRIVE Atlan next-generation S
 
 Critical Accounting Policies and Estimates 
 
-Management&#8217;s discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States, or U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue, cost of revenue, expenses and related disclosure of contingencies. On an on-going basis, we evaluate our estimates, including those related to inventories, revenue recognition, income taxes, and goodwill. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. 
+Management's discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States, or U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue, cost of revenue, expenses and related disclosure of contingencies. On an on-going basis, we evaluate our estimates, including those related to inventories, revenue recognition, income taxes, and goodwill. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. 
 
 We believe the following critical accounting policies affect our significant judgments and estimates used in the preparation of our consolidated financial statements. Our management has discussed the development and selection of these critical accounting policies and estimates with the Audit Committee of our Board of Directors. The Audit Committee has reviewed our disclosures relating to our critical accounting policies and estimates in this Annual Report on Form 10-K. 
 
@@ -92,7 +92,7 @@ Inventory cost is computed on an adjusted standard basis, which approximates act
 
 Situations that may result in excess or obsolete inventory include changes in business and economic conditions, changes in market conditions, sudden and significant decreases in demand for our products, inventory obsolescence because of changing technology and customer requirements, new product introductions resulting in less demand for existing products or inconsistent spikes in demand due to unexpected end use cases, failure to estimate customer demand properly, ordering in advance of historical lead-times and the impact of changes in future demand, or increase in demand for competitive products, including competitive actions. Cancellation or deferral of customer purchase orders could result in our holding excess inventory. 
 
-The overall net effect on our gross margin from inventory provisions and sales of items previously written down was an unfavorable impact of 0.9% in fiscal year 2022 and insignificant in fiscal year 2021. As a fabless semiconductor company, we must make commitments to purchase inventory based on forecasts of future customer demand. In doing so, we must account for our third-party manufacturers' lead times and constraints. Our manufacturing lead times are very long and in some cases, extend on to be twelve months or longer, which requires us to make estimates of customers&#8217; future demand. We place non-cancellable inventory orders for certain products in advance of our historical lead times, pay premiums and provide deposits to secure future supply and capacity. We also adjust to other market factors, such as product offerings and pricing actions by our competitors, new product transitions, and macroeconomic conditions - all of which may impact demand for our products. 
+The overall net effect on our gross margin from inventory provisions and sales of items previously written down was an unfavorable impact of 0.9% in fiscal year 2022 and insignificant in fiscal year 2021. As a fabless semiconductor company, we must make commitments to purchase inventory based on forecasts of future customer demand. In doing so, we must account for our third-party manufacturers' lead times and constraints. Our manufacturing lead times are very long and in some cases, extend on to be twelve months or longer, which requires us to make estimates of customers' future demand. We place non-cancellable inventory orders for certain products in advance of our historical lead times, pay premiums and provide deposits to secure future supply and capacity. We also adjust to other market factors, such as product offerings and pricing actions by our competitors, new product transitions, and macroeconomic conditions - all of which may impact demand for our products. 
 
 Refer to the Gross Profit and Gross Margin discussion below in this Management's Discussion and Analysis for further discussion. 
 
@@ -108,7 +108,7 @@ Revenue from product sales is recognized upon transfer of control of products to
 
 For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates. However, if product returns for a fiscal period are anticipated to exceed historical return rates, we may determine that additional sales return allowances are required to properly reflect our estimated exposure for product returns. 
 
-Our customer programs involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and marketing development funds, or MDFs, which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners&#8217; activities while also promoting NVIDIA products. We account for customer programs as a reduction to revenue and accrue for potential rebates and MDFs based on the amount we expect to be claimed by customers. 
+Our customer programs involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and marketing development funds, or MDFs, which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners' activities while also promoting NVIDIA products. We account for customer programs as a reduction to revenue and accrue for potential rebates and MDFs based on the amount we expect to be claimed by customers. 
 
 License and Development Arrangements 
 
@@ -130,7 +130,7 @@ Refer to Note 14 of the Notes to the Consolidated Financial Statements in Part I
 
 Goodwill 
 
-Goodwill is subject to our annual impairment test during the fourth quarter of our fiscal year, or earlier, if indicators of potential impairment exist, using either a qualitative or a quantitative assessment. Our impairment review process compares the fair value of the reporting unit in which the goodwill resides to its carrying value. As of January 30, 2022, the total carrying amount of goodwill was $4.35 billion and the amount of goodwill allocated to our Graphics and Compute &#38; Networking reporting units was $361 million and $3.99 billion, respectively. Determining the fair value of a reporting unit requires us to make judgments and involves the use of significant estimates and assumptions. We also make judgments and assumptions in allocating assets and liabilities to each of our reporting units. We base our fair value estimates on assumptions we believe to be reasonable but that are unpredictable and inherently uncertain. 
+Goodwill is subject to our annual impairment test during the fourth quarter of our fiscal year, or earlier, if indicators of potential impairment exist, using either a qualitative or a quantitative assessment. Our impairment review process compares the fair value of the reporting unit in which the goodwill resides to its carrying value. As of January 30, 2022, the total carrying amount of goodwill was $4.35 billion and the amount of goodwill allocated to our Graphics and Compute & Networking reporting units was $361 million and $3.99 billion, respectively. Determining the fair value of a reporting unit requires us to make judgments and involves the use of significant estimates and assumptions. We also make judgments and assumptions in allocating assets and liabilities to each of our reporting units. We base our fair value estimates on assumptions we believe to be reasonable but that are unpredictable and inherently uncertain. 
 
 We performed our annual goodwill assessment during the fourth quarter of fiscal year 2022 using a qualitative assessment and concluded there was no goodwill impairment. 
 
@@ -138,21 +138,21 @@ Refer to Note 6 of the Notes to the Consolidated Financial Statements in Part IV
 
 Results of Operations 
 
-A discussion regarding our financial condition and results of operations for fiscal year 2022 compared to fiscal year 2021 is presented below. A discussion regarding our financial condition and results of operations for fiscal year 2021 compared to fiscal year 2020 can be found under Item 7 in our Annual Report on Form 10-K for the fiscal year ended January 31, 2021, filed with the SEC on February 26, 2021, which is available free of charge on the SEC&#8217;s website at http://www.sec.gov and at our investor relations website, http://investor.nvidia.com. 
+A discussion regarding our financial condition and results of operations for fiscal year 2022 compared to fiscal year 2021 is presented below. A discussion regarding our financial condition and results of operations for fiscal year 2021 compared to fiscal year 2020 can be found under Item 7 in our Annual Report on Form 10-K for the fiscal year ended January 31, 2021, filed with the SEC on February 26, 2021, which is available free of charge on the SEC's website at http://www.sec.gov and at our investor relations website, http://investor.nvidia.com. 
 
 The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue. 
 
-##TABLE_START &#160; Year Ended &#160; January 30, 2022 January 31, 2021 Revenue 100.0 % 100.0 % Cost of revenue 35.1 37.7 Gross profit 64.9 62.3 Operating expenses: &#160; Research and development 19.6 23.5 Sales, general and administrative 8.0 11.6 Total operating expenses 27.6 35.1 Income from operations 37.3 27.2 Interest income 0.1 0.3 Interest expense (0.9) (1.1) Other, net 0.4 0.1 Other income (expense), net (0.4) (0.7) Income before income tax expense 36.9 26.5 Income tax expense 0.7 0.5 Net income 36.2 % 26.0 % ##TABLE_END
+##TABLE_START  Year Ended  January 30, 2022 January 31, 2021 Revenue 100.0 % 100.0 % Cost of revenue 35.1 37.7 Gross profit 64.9 62.3 Operating expenses:  Research and development 19.6 23.5 Sales, general and administrative 8.0 11.6 Total operating expenses 27.6 35.1 Income from operations 37.3 27.2 Interest income 0.1 0.3 Interest expense (0.9) (1.1) Other, net 0.4 0.1 Other income (expense), net (0.4) (0.7) Income before income tax expense 36.9 26.5 Income tax expense 0.7 0.5 Net income 36.2 % 26.0 % ##TABLE_END
 
 Revenue 
 
 Revenue by Reportable Segments 
 
-##TABLE_START Year Ended January 30, 2022 January 31, 2021 $ Change % Change ($ in millions) Graphics $ 15,868 $ 9,834 $ 6,034 61 % Compute &#38; Networking 11,046 6,841 4,205 61 % Total $ 26,914 $ 16,675 $ 10,239 61 % ##TABLE_END
+##TABLE_START Year Ended January 30, 2022 January 31, 2021 $ Change % Change ($ in millions) Graphics $ 15,868 $ 9,834 $ 6,034 61 % Compute & Networking 11,046 6,841 4,205 61 % Total $ 26,914 $ 16,675 $ 10,239 61 % ##TABLE_END
 
 Graphics - Graphics segment revenue increased by 61% in fiscal year 2022 compared to fiscal year 2021. We continue to benefit from strong demand for NVIDIA Ampere architecture products, and believe the increase in Gaming revenue during fiscal year 2022 resulted from a combination of factors, including: the ramp of new RTX 30 Series GPUs; the release of new games supporting ray tracing; the rising popularity of gaming, esports, content creation and streaming; the demand for new and upgraded systems to support the increase in remote work; and the ability of end users to engage in cryptocurrency mining. 
 
-Compute &#38; Networking - Compute &#38; Networking segment revenue increased by 61% in fiscal year 2022 compared to fiscal year 2021, driven primarily by sales of NVIDIA Ampere architecture products to hyperscale customers for cloud computing and workloads such as natural language processing and deep recommender models, as well as to vertical industries. The increase compared to fiscal year 2021 also reflects the strong sales of networking products and that fiscal year 2022 includes a full year of networking revenue as Mellanox was acquired in April 2020. CMP contributed $550 million in fiscal year 2022 compared to an insignificant amount in the prior year. 
+Compute & Networking - Compute & Networking segment revenue increased by 61% in fiscal year 2022 compared to fiscal year 2021, driven primarily by sales of NVIDIA Ampere architecture products to hyperscale customers for cloud computing and workloads such as natural language processing and deep recommender models, as well as to vertical industries. The increase compared to fiscal year 2021 also reflects the strong sales of networking products and that fiscal year 2022 includes a full year of networking revenue as Mellanox was acquired in April 2020. CMP contributed $550 million in fiscal year 2022 compared to an insignificant amount in the prior year. 
 
 Concentration of Revenue 
 
@@ -164,17 +164,17 @@ Gross Profit and Gross Margin
 
 Gross profit consists of total revenue, net of allowances, less cost of revenue. Cost of revenue consists primarily of the cost of semiconductors, including wafer fabrication, assembly, testing and packaging, board and device costs, manufacturing support costs, including labor and overhead associated with such purchases, final test yield fallout, inventory and warranty provisions, memory and component costs, tariffs, and shipping costs. Cost of revenue also includes acquisition-related costs, development costs for license and service arrangements, IP-related costs, and stock-based compensation related to personnel associated with manufacturing. 
 
-Our overall gross margin was 64.9% and 62.3% for fiscal years 2022 and 2021, respectively. The increase in fiscal year 2022 was primarily due to lower Mellanox acquisition-related charges, including a non-recurring inventory step-up charge of $161 million in fiscal year 2021. The increase also benefited from a higher-end mix within Graphics, partially offset by a mix shift within Compute &#38; Networking. 
+Our overall gross margin was 64.9% and 62.3% for fiscal years 2022 and 2021, respectively. The increase in fiscal year 2022 was primarily due to lower Mellanox acquisition-related charges, including a non-recurring inventory step-up charge of $161 million in fiscal year 2021. The increase also benefited from a higher-end mix within Graphics, partially offset by a mix shift within Compute & Networking. 
 
 Inventory provisions totaled $354 million and $116 million for fiscal years 2022 and 2021, respectively. Sales of inventory that was previously written-off or written-down totaled $111 million and $145 million for fiscal years 2022 and 2021, respectively. As a result, the overall net effect on our gross margin was an unfavorable impact of 0.9% in fiscal year 2022 and insignificant in fiscal year 2021. 
 
 The gross margin of our Graphics segment increased during fiscal year 2022 when compared to fiscal year 2021, primarily due to higher-end mix within GeForce GPUs. 
 
-The gross margin of our Compute &#38; Networking segment decreased during fiscal year 2022 when compared to fiscal year 2021, primarily due to a shift in product mix and partially offset by a reduced contribution from Automotive solutions. 
+The gross margin of our Compute & Networking segment decreased during fiscal year 2022 when compared to fiscal year 2021, primarily due to a shift in product mix and partially offset by a reduced contribution from Automotive solutions. 
 
 Operating Expenses 
 
-##TABLE_START &#160; Year Ended &#160; January 30, 2022 January 31, 2021 $ Change % Change &#160; ($ in millions) Research and development expenses $ 5,268 $ 3,924 $ 1,344 34 % % of net revenue 19.6 % 23.5 % &#160; &#160; Sales, general and administrative expenses 2,166 1,940 226 12 % % of net revenue 8.0 % 11.6 % &#160; &#160; Total operating expenses $ 7,434 $ 5,864 $ 1,570 27 % ##TABLE_END
+##TABLE_START  Year Ended  January 30, 2022 January 31, 2021 $ Change % Change  ($ in millions) Research and development expenses $ 5,268 $ 3,924 $ 1,344 34 % % of net revenue 19.6 % 23.5 %   Sales, general and administrative expenses 2,166 1,940 226 12 % % of net revenue 8.0 % 11.6 %   Total operating expenses $ 7,434 $ 5,864 $ 1,570 27 % ##TABLE_END
 
 Research and Development 
 
@@ -206,9 +206,9 @@ Refer to Note 14 of the Notes to the Consolidated Financial Statements in Part I
 
 Liquidity and Capital Resources 
 
-##TABLE_START &#160; January 30, 2022 January 31, 2021 &#160; (In millions) Cash and cash equivalents $ 1,990 $ 847 Marketable securities 19,218 10,714 Cash, cash equivalents, and marketable securities $ 21,208 $ 11,561 ##TABLE_END
+##TABLE_START  January 30, 2022 January 31, 2021  (In millions) Cash and cash equivalents $ 1,990 $ 847 Marketable securities 19,218 10,714 Cash, cash equivalents, and marketable securities $ 21,208 $ 11,561 ##TABLE_END
 
-##TABLE_START &#160; Year Ended January 30, 2022 January 31, 2021 &#160; (In millions) Net cash provided by operating activities $ 9,108 $ 5,822 Net cash provided by (used in) investing activities $ (9,830) $ (19,675) Net cash provided by financing activities $ 1,865 $ 3,804 ##TABLE_END
+##TABLE_START  Year Ended January 30, 2022 January 31, 2021  (In millions) Net cash provided by operating activities $ 9,108 $ 5,822 Net cash provided by (used in) investing activities $ (9,830) $ (19,675) Net cash provided by financing activities $ 1,865 $ 3,804 ##TABLE_END
 
 As of January 30, 2022, we had $21.21 billion in cash, cash equivalents and marketable securities, an increase of $9.65 billion from the end of fiscal year 2021. Our investment policy requires the purchase of highly rated fixed income securities, the diversification of investment types and credit exposures, and certain maturity limits on our portfolio. 
 
@@ -240,23 +240,23 @@ Outstanding Indebtedness and Commercial Paper Program
 
 As of January 30, 2022, we had outstanding: 
 
-&#8226; $1.25 billion of Notes Due 2023; 
+ $1.25 billion of Notes Due 2023; 
 
-&#8226; $1.25 billion of Notes Due 2024; 
+ $1.25 billion of Notes Due 2024; 
 
-&#8226; $1.00 billion of Notes Due 2026; 
+ $1.00 billion of Notes Due 2026; 
 
-&#8226; $1.25 billion of Notes Due 2028; 
+ $1.25 billion of Notes Due 2028; 
 
-&#8226; $1.50 billion of Notes Due 2030; 
+ $1.50 billion of Notes Due 2030; 
 
-&#8226; $1.25 billion of Notes Due 2031; 
+ $1.25 billion of Notes Due 2031; 
 
-&#8226; $1.00 billion of Notes Due 2040; 
+ $1.00 billion of Notes Due 2040; 
 
-&#8226; $2.00 billion of Notes Due 2050; and 
+ $2.00 billion of Notes Due 2050; and 
 
-&#8226; $500 million of Notes Due 2060. 
+ $500 million of Notes Due 2060. 
 
 We have a $575 million commercial paper program to support general corporate purposes. As of January 30, 2022, we had not issued any commercial paper. 
 

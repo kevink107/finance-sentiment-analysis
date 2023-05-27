@@ -11,34 +11,72 @@ def query(payload):
     return response.json()
 
 
+def remove_special_characters(file_path):
+    # Read the file
+    with open(file_path, 'r') as file:
+        text = file.read()
+
+    # Remove special characters
+    clean_text = text.replace("&#160;", "")
+    clean_text = clean_text.replace("&#8217;", "'")
+    clean_text = clean_text.replace("&#8220;", "\"")
+    clean_text = clean_text.replace("&#8221;", "\"")
+    clean_text = clean_text.replace("&#8226;", "")
+    clean_text = clean_text.replace("&#8482;", "")
+    clean_text = clean_text.replace("&#38;", "&")
+    clean_text = clean_text.replace("&#8221;", "\"")
+
+
+    # Write the cleaned text back to the file
+    with open(file_path, 'w') as file:
+        file.write(clean_text)
+
+
+def clean_up_files(directory):
+    for file in os.listdir(directory):
+        f = os.path.join(directory, file)
+
+        if os.path.isfile(f):
+            file_path = os.path.abspath(f)
+            print("FILE PATH: " + file_path)
+
+            remove_special_characters(file_path)
+
+
 def get_sentiments_json(directory): 
-    WORDS_PER_CHUNK = 500
+    CHARS_PER_CHUNK = 500
     sentiments = {}
 
     for file in os.listdir(directory):
         f = os.path.join(directory, file)
 
         if os.path.isfile(f):
-            file_path = str(f)
-            print(file_path)
+            file_path = os.path.abspath(f)
+            print("FILE PATH: " + file_path)
 
-            # opens one of the text files (e.g., Apple 10-K MD&A, Tesla 10-K Risks)
+            # Read file to get total words 
+            with open(file_path, 'r') as file_copy:
+                total_words = len(file_copy.read().split())
+                print(total_words)
+
+            # Open file for sentiment analysis
             with open(file_path, 'r') as text_file:
                 words_read = 0
-                
-                # Initialize the variables to track scores and batches for each file
+
+                # Initialize variables to track scores and batches for each file
                 running_score_positive = 0
                 running_score_neutral = 0
                 running_score_negative = 0
                 num_batches = 0
 
-                while True:
-                    chunk = text_file.read(WORDS_PER_CHUNK)
-
+                while words_read <= total_words:
+                    print("WORDS READ: " + str(words_read) + "/" + str(total_words))
+                    chunk = text_file.read(CHARS_PER_CHUNK)
+    
                     if not chunk:
+                        print("ERROR: not chunk (line 45)")
                         break
 
-                    # print(chunk)
                     payload = {"text": chunk}
                     response = query(payload)
 
@@ -47,8 +85,8 @@ def get_sentiments_json(directory):
                         print(f"Model is loading. Retrying after {estimated_time} seconds...")
                         time.sleep(estimated_time + 10)
                         response = query(payload)
-                    
-                    print(response)
+
+                    print(chunk)
 
                     # Update the running scores for the current file
                     running_score_positive += response[0]['score']
@@ -57,9 +95,8 @@ def get_sentiments_json(directory):
                     num_batches += 1
 
                     words_read += len(chunk.split())
-                    if words_read >= WORDS_PER_CHUNK:
-                        break
 
+                    print(response)
                     print("-----------------------")
                     print("\n")
 
@@ -82,14 +119,23 @@ def get_sentiments_json(directory):
                 sentiments[file_name] = file_entry
 
     # Save the JSON to a file
-    output_file = "sentiments/" + str(directory) + "_sentiments.json"
+    output_file = os.path.join("sentiments", f"{directory}_sentiments.json")
     with open(output_file, 'w') as json_file:
         json.dump(sentiments, json_file, indent=4)
 
 
-# get_sentiments_json('mda1')
-# get_sentiments_json('mda2')
-# get_sentiments_json('mda3')
-# get_sentiments_json('risks1')
-# get_sentiments_json('risks2')
-get_sentiments_json('risks3')
+if __name__ == "__main__":
+    # clean_up_files('mda1')
+    # clean_up_files('mda2')
+    # clean_up_files('mda3')
+    # clean_up_files('risks1')
+    # clean_up_files('risks2')
+    # clean_up_files('risks3')
+    # get_sentiments_json('mda1')
+    get_sentiments_json('mda2')
+    # get_sentiments_json('mda3')
+    # get_sentiments_json('risks1')
+    # get_sentiments_json('risks2')
+    # get_sentiments_json('risks3')
+    # get_sentiments_json('test')
+    pass

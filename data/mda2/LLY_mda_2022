@@ -32,7 +32,7 @@ Financial Results
 
 The following table summarizes our key operating results: 
 
-##TABLE_START Year Ended December 31 Percent Change 2021 2020 Revenue $ 28,318.4 &#160; $ 24,539.8 15 Gross margin 21,005.6 &#160; 19,056.5 10 Gross margin as a percent of revenue 74.2 &#160; % 77.7 % Operating expenses $ 13,457.5 &#160; $ 12,206.9 10 Acquired in-process research and development 874.9 &#160; 660.4 32 Asset impairment, restructuring, and other special charges 316.1 &#160; 131.2 NM Other&#8212;net, (income) expense 201.6 &#160; (1,171.9) NM Income before income taxes 6,155.5 &#160; 7,229.9 (15) Income taxes 573.8 &#160; 1,036.2 (45) Net income 5,581.7 &#160; 6,193.7 (10) EPS 6.12 &#160; 6.79 (10) ##TABLE_END
+##TABLE_START Year Ended December 31 Percent Change 2021 2020 Revenue $ 28,318.4  $ 24,539.8 15 Gross margin 21,005.6  19,056.5 10 Gross margin as a percent of revenue 74.2  % 77.7 % Operating expenses $ 13,457.5  $ 12,206.9 10 Acquired in-process research and development 874.9  660.4 32 Asset impairment, restructuring, and other special charges 316.1  131.2 NM Other&#8212;net, (income) expense 201.6  (1,171.9) NM Income before income taxes 6,155.5  7,229.9 (15) Income taxes 573.8  1,036.2 (45) Net income 5,581.7  6,193.7 (10) EPS 6.12  6.79 (10) ##TABLE_END
 
 NM - not meaningful 
 
@@ -42,33 +42,33 @@ The following highlighted items affect comparisons of our 2021 and 2020 financia
 
 Cost of Sales (See Note 6 to the consolidated financial statements) 
 
-&#8226; We recognized a net inventory impairment charge related to our COVID-19 antibodies of $339.7 million. As part of our response to the COVID-19 pandemic, and at the request of the U.S. and international governments, we invested in large-scale manufacturing of COVID-19 antibodies at risk, in order to ensure rapid access to patients around the world. As the COVID-19 pandemic evolved during 2021, we incurred a net inventory impairment charge primarily due to the combination of changes to current and forecasted demand from U.S. and international governments, including changes to our agreement with the U.S. government, and near-term expiry dates of COVID-19 antibodies. 
+ We recognized a net inventory impairment charge related to our COVID-19 antibodies of $339.7 million. As part of our response to the COVID-19 pandemic, and at the request of the U.S. and international governments, we invested in large-scale manufacturing of COVID-19 antibodies at risk, in order to ensure rapid access to patients around the world. As the COVID-19 pandemic evolved during 2021, we incurred a net inventory impairment charge primarily due to the combination of changes to current and forecasted demand from U.S. and international governments, including changes to our agreement with the U.S. government, and near-term expiry dates of COVID-19 antibodies. 
 
-Acquired In-Process Research and Development (IPR&#38;D) (Note 3 to the consolidated financial statements) 
+Acquired In-Process Research and Development (IPR&D) (Note 3 to the consolidated financial statements) 
 
-&#8226; We recognized acquired IPR&#38;D charges of $874.9 million related to business development transactions. 
-
-Asset Impairment, Restructuring, and Other Special Charges (Note 5 to the consolidated financial statements) 
-
-&#8226; We recognized charges of $316.1 million primarily related to an impairment of a contract-based intangible asset from our acquisition of Loxo Oncology, Inc. (Loxo), an intangible asset impairment resulting from the sale of the rights to Qbrexza &#174; , as well as acquisition and integration costs associated with the acquisition of Prevail Therapeutics Inc. (Prevail). 
-
-Other-Net, (Income) Expense (Note 18 to the consolidated financial statements) 
-
-&#8226; We recognized a debt extinguishment loss of $405.2 million related to the repurchase of debt. 
-
-&#8226; We recognized $176.9 million of net investment gains on equity securities. 
-
-Acquired IPR&#38;D (Note 3 to the consolidated financial statements) 
-
-&#8226; We recognized acquired IPR&#38;D charges of $660.4 million related to business development transactions. 
+ We recognized acquired IPR&D charges of $874.9 million related to business development transactions. 
 
 Asset Impairment, Restructuring, and Other Special Charges (Note 5 to the consolidated financial statements) 
 
-&#8226; We recognized charges of $131.2 million primarily related to severance costs incurred as a result of actions taken worldwide to reduce our cost structure. 
+ We recognized charges of $316.1 million primarily related to an impairment of a contract-based intangible asset from our acquisition of Loxo Oncology, Inc. (Loxo), an intangible asset impairment resulting from the sale of the rights to Qbrexza &#174; , as well as acquisition and integration costs associated with the acquisition of Prevail Therapeutics Inc. (Prevail). 
 
 Other-Net, (Income) Expense (Note 18 to the consolidated financial statements) 
 
-&#8226; We recognized $1.44 billion of net investment gains on equity securities. 
+ We recognized a debt extinguishment loss of $405.2 million related to the repurchase of debt. 
+
+ We recognized $176.9 million of net investment gains on equity securities. 
+
+Acquired IPR&D (Note 3 to the consolidated financial statements) 
+
+ We recognized acquired IPR&D charges of $660.4 million related to business development transactions. 
+
+Asset Impairment, Restructuring, and Other Special Charges (Note 5 to the consolidated financial statements) 
+
+ We recognized charges of $131.2 million primarily related to severance costs incurred as a result of actions taken worldwide to reduce our cost structure. 
+
+Other-Net, (Income) Expense (Note 18 to the consolidated financial statements) 
+
+ We recognized $1.44 billion of net investment gains on equity securities. 
 
 Late-Stage Pipeline 
 
@@ -204,7 +204,7 @@ As a global company, we face foreign currency risk exposure from fluctuating cur
 
 Trends Affecting Pharmaceutical Pricing, Reimbursement, and Access 
 
-Global concern over access to and affordability of pharmaceutical products continues to drive regulatory and legislative debate, as well as worldwide cost containment efforts by governmental authorities. Such measures may include the use of mandated discounts, price reporting requirements, mandated reference prices, restrictive formularies, changes to available intellectual property protections, as well as other efforts. In addition, consolidation of private payors in the U.S. has significantly impacted the market for pharmaceuticals by increasing payor leverage in negotiating manufacturer price concessions and pharmacy reimbursement rates. Furthermore, restrictive or unfavorable pricing, coverage, or reimbursement determinations for our medicines or product candidates by governments, regulatory agencies, or private payers, such as the recently proposed Alzheimer&#8217;s Monoclonal Antibody national coverage determination, may adversely impact our business and financial results. We expect that these actions may intensify and could particularly affect certain products, such as insulin, as governments manage and emerge from the COVID-19 pandemic, which could adversely affect our business. In addition, we are engaged in litigation and investigations related to our 340B program that, if resolved adversely to us, could negatively impact our business and consolidated results of operations. It is not currently possible to predict the overall potential adverse impact to us or the general pharmaceutical industry of continued cost containment efforts worldwide. 
+Global concern over access to and affordability of pharmaceutical products continues to drive regulatory and legislative debate, as well as worldwide cost containment efforts by governmental authorities. Such measures may include the use of mandated discounts, price reporting requirements, mandated reference prices, restrictive formularies, changes to available intellectual property protections, as well as other efforts. In addition, consolidation of private payors in the U.S. has significantly impacted the market for pharmaceuticals by increasing payor leverage in negotiating manufacturer price concessions and pharmacy reimbursement rates. Furthermore, restrictive or unfavorable pricing, coverage, or reimbursement determinations for our medicines or product candidates by governments, regulatory agencies, or private payers, such as the recently proposed Alzheimer's Monoclonal Antibody national coverage determination, may adversely impact our business and financial results. We expect that these actions may intensify and could particularly affect certain products, such as insulin, as governments manage and emerge from the COVID-19 pandemic, which could adversely affect our business. In addition, we are engaged in litigation and investigations related to our 340B program that, if resolved adversely to us, could negatively impact our business and consolidated results of operations. It is not currently possible to predict the overall potential adverse impact to us or the general pharmaceutical industry of continued cost containment efforts worldwide. 
 
 In addition, evolving regulatory priorities have intensified governmental scrutiny of our operations and our industry, including with respect to current Good Manufacturing Practices, quality assurance, and similar regulations, and increased focus on business combinations in our industry. Any regulatory issues concerning these matters could lead to regulatory and legal actions, product recalls and seizures, fines and penalties, interruption of production leading to product shortages, import bans or denials of import certifications, delays or denials in the approvals of new products or supplemental approvals of current products pending resolution of the issues, impediments to the completion of business combinations, and reputational harm, any of which would adversely affect our business. 
 
@@ -234,7 +234,7 @@ Revenue
 
 The following table summarizes our revenue activity by region: 
 
-##TABLE_START Year Ended December 31, 2021 2020 Percent Change U.S. $ 16,811.0 &#160; $ 14,229.3 18 Outside U.S. 11,507.4 &#160; 10,310.5 12 Revenue $ 28,318.4 &#160; $ 24,539.8 15 ##TABLE_END
+##TABLE_START Year Ended December 31, 2021 2020 Percent Change U.S. $ 16,811.0  $ 14,229.3 18 Outside U.S. 11,507.4  10,310.5 12 Revenue $ 28,318.4  $ 24,539.8 15 ##TABLE_END
 
 The following are components of the change in revenue compared with the prior year: 
 
@@ -248,55 +248,55 @@ Outside the U.S. the increase in volume in 2021 was primarily driven by Trulicit
 
 The following table summarizes our revenue activity in 2021 compared with 2020: 
 
-##TABLE_START Year Ended December 31, &#160; 2021 2020 Product U.S. Outside U.S. Total Total Percent Change Trulicity $ 4,914.4 &#160; $ 1,557.6 &#160; $ 6,471.9 &#160; $ 5,068.1 28 
+##TABLE_START Year Ended December 31,  2021 2020 Product U.S. Outside U.S. Total Total Percent Change Trulicity $ 4,914.4  $ 1,557.6  $ 6,471.9  $ 5,068.1 28 
 
 Humalog (1) 
 
-1,320.7 &#160; 1,132.3 &#160; 2,453.0 &#160; 2,625.9 (7) 
+1,320.7  1,132.3  2,453.0  2,625.9 (7) 
 
 COVID-19 antibodies (2) 
 
-1,978.0 &#160; 261.4 &#160; 2,239.3 &#160; 871.2 NM Taltz 1,542.4 &#160; 670.4 &#160; 2,212.8 &#160; 1,788.5 24 Alimta 1,233.9 &#160; 827.5 &#160; 2,061.4 &#160; 2,329.9 (12) 
+1,978.0  261.4  2,239.3  871.2 NM Taltz 1,542.4  670.4  2,212.8  1,788.5 24 Alimta 1,233.9  827.5  2,061.4  2,329.9 (12) 
 
 Jardiance (3) 
 
-807.3 &#160; 683.5 &#160; 1,490.8 &#160; 1,153.8 29 Verzenio 834.9 &#160; 515.0 &#160; 1,349.9 &#160; 912.7 48 
+807.3  683.5  1,490.8  1,153.8 29 Verzenio 834.9  515.0  1,349.9  912.7 48 
 
 Humulin &#174; 
 
-832.9 &#160; 389.6 &#160; 1,222.6 &#160; 1,259.6 (3) 
+832.9  389.6  1,222.6  1,259.6 (3) 
 
 Olumiant (4) 
 
-324.1 &#160; 791.0 &#160; 1,115.1 &#160; 638.9 75 
+324.1  791.0  1,115.1  638.9 75 
 
 Cyramza &#174; 
 
-358.1 &#160; 674.8 &#160; 1,033.0 &#160; 1,032.6 &#8212; 
+358.1  674.8  1,033.0  1,032.6 &#8212; 
 
 Basaglar &#174; 
 
-588.3 &#160; 304.2 &#160; 892.5 &#160; 1,124.4 (21) Forteo 441.6 &#160; 360.3 &#160; 801.9 &#160; 1,046.3 (23) 
+588.3  304.2  892.5  1,124.4 (21) Forteo 441.6  360.3  801.9  1,046.3 (23) 
 
 Cialis &#174; 
 
-10.6 &#160; 707.9 &#160; 718.4 &#160; 607.1 18 Cymbalta 38.7 &#160; 542.8 &#160; 581.5 &#160; 767.7 (24) 
+10.6  707.9  718.4  607.1 18 Cymbalta 38.7  542.8  581.5  767.7 (24) 
 
 Emgality &#174; 
 
-434.5 &#160; 142.7 &#160; 577.2 &#160; 362.9 59 
+434.5  142.7  577.2  362.9 59 
 
 Erbitux &#174; 
 
-481.8 &#160; 66.4 &#160; 548.3 &#160; 536.4 2 
+481.8  66.4  548.3  536.4 2 
 
 Zyprexa &#174; 
 
-39.6 &#160; 390.7 &#160; 430.3 &#160; 406.5 6 Tyvyt &#8212; &#160; 418.1 &#160; 418.1 &#160; 308.7 35 
+39.6  390.7  430.3  406.5 6 Tyvyt &#8212;  418.1  418.1  308.7 35 
 
 Trajenta &#174;(5) 
 
-82.1 &#160; 290.4 &#160; 372.5 &#160; 358.5 4 Other products 547.1 &#160; 780.8 &#160; 1,327.9 &#160; 1,340.1 (1) Revenue $ 16,811.0 &#160; $ 11,507.4 &#160; $ 28,318.4 &#160; $ 24,539.8 15 ##TABLE_END
+82.1  290.4  372.5  358.5 4 Other products 547.1  780.8  1,327.9  1,340.1 (1) Revenue $ 16,811.0  $ 11,507.4  $ 28,318.4  $ 24,539.8 15 ##TABLE_END
 
 Numbers may not add due to rounding. 
 
@@ -340,13 +340,13 @@ Research and development expenses increased 15 percent to $7.03 billion in 2021,
 
 Marketing, selling, and administrative expenses increased 5 percent to $6.43 billion in 2021, primarily due to increased marketing costs to continue to drive growth for certain products, investment in preparation for new launches, and lower marketing activities in 2020 as a result of pandemic-related spending reductions. 
 
-We recognized acquired IPR&#38;D charges of $874.9 million and $660.4 million in 2021 and 2020, respectively, related to business development transactions. See Note 3 to the consolidated financial statements for additional information. 
+We recognized acquired IPR&D charges of $874.9 million and $660.4 million in 2021 and 2020, respectively, related to business development transactions. See Note 3 to the consolidated financial statements for additional information. 
 
 We recognized asset impairment, restructuring, and other special charges of $316.1 million in 2021. The charges were primarily related to an impairment of a contract-based intangible asset from our acquisition of Loxo, an intangible asset impairment resulting from the sale of the rights to Qbrexza, as well as acquisition and integration costs associated with the acquisition of Prevail. In 2020, we recognized $131.2 million of asset impairment, restructuring, and other special charges primarily related to severance costs incurred as a result of actions taken worldwide to reduce our cost structure. 
 
 Other&#8212;net, (income) expense was expense of $201.6 million in 2021 compared to income of $1.17 billion in 2020, primarily driven by lower net investment gains on equity securities and a debt extinguishment loss of $405.2 million related to the repurchase of debt. 
 
-Our effective tax rate was 9.3 percent in 2021, compared with an effective tax rate of 14.3 percent in 2020, primarily driven by the tax impacts of acquired IPR&#38;D charges, lower net investment gains on equity securities, as well as a net discrete tax benefit. 
+Our effective tax rate was 9.3 percent in 2021, compared with an effective tax rate of 14.3 percent in 2020, primarily driven by the tax impacts of acquired IPR&D charges, lower net investment gains on equity securities, as well as a net discrete tax benefit. 
 
 Operating Results&#8212;2020 
 
@@ -356,19 +356,19 @@ FINANCIAL CONDITION AND LIQUIDITY
 
 We believe our available cash and cash equivalents, together with our ability to generate operating cash flow and our access to short-term and long-term borrowings, are sufficient to fund our existing and planned capital requirements, which include: 
 
-&#8226; working capital requirements, including related to employee payroll, clinical trials, manufacturing materials, and taxes; 
+ working capital requirements, including related to employee payroll, clinical trials, manufacturing materials, and taxes; 
 
-&#8226; capital expenditures; 
+ capital expenditures; 
 
-&#8226; share repurchases and dividends; 
+ share repurchases and dividends; 
 
-&#8226; repayment of outstanding short-term and long-term borrowings; 
+ repayment of outstanding short-term and long-term borrowings; 
 
-&#8226; contributions to our defined benefit pension and retiree health benefit plans; 
+ contributions to our defined benefit pension and retiree health benefit plans; 
 
-&#8226; milestone and royalty payments; and 
+ milestone and royalty payments; and 
 
-&#8226; potential business development activities, including acquisitions, collaborations, investments, and licensing arrangements. 
+ potential business development activities, including acquisitions, collaborations, investments, and licensing arrangements. 
 
 Our management continuously evaluates our liquidity and capital resources, including our access to external capital, to ensure we can adequately and efficiently finance our capital requirements. As of December 31, 2021, our material cash requirements primarily related to purchases of goods and services to produce our products and conduct our operations, capital equipment expenditures, dividends, repayment of outstanding borrowings, milestone and royalty payments, the remaining obligations for the one-time repatriation transition tax (also known as the 'Toll Tax') from the 2017 Tax Act, leases, unfunded commitments to invest in venture capital funds, and retirement benefits (see Notes 11, 4, 14, 10, 7, and 15 to the consolidated financial statements). We anticipate our cash requirements related to ordinary course purchases of goods and services and capital equipment expenditures will be consistent with our past levels relative to revenues. 
 
@@ -428,9 +428,9 @@ The portion of our consolidated sales return, rebate, and discount liability res
 
 The following represents a roll-forward of our most significant U.S. sales return, rebate, and discount liability balances, including managed care, Medicare, Medicaid, chargeback, and patient assistance programs: 
 
-##TABLE_START (Dollars in millions) 2021 2020 Sales return, rebate, and discount liabilities, beginning of year $ 5,400.0 &#160; $ 4,635.5 Reduction of net sales (1) 
+##TABLE_START (Dollars in millions) 2021 2020 Sales return, rebate, and discount liabilities, beginning of year $ 5,400.0  $ 4,635.5 Reduction of net sales (1) 
 
-20,106.3 &#160; 18,668.4 Cash payments (19,344.7) (17,903.9) Sales return, rebate, and discount liabilities, end of year $ 6,161.6 &#160; $ 5,400.0 ##TABLE_END
+20,106.3  18,668.4 Cash payments (19,344.7) (17,903.9) Sales return, rebate, and discount liabilities, end of year $ 6,161.6  $ 5,400.0 ##TABLE_END
 
 (1) Adjustments of the estimates for these returns, rebates, and discounts to actual results were less than 1 percent of consolidated revenue for each of the years presented. 
 
@@ -450,9 +450,9 @@ Background and Uncertainties
 
 To determine whether acquisitions or licensing transactions should be accounted for as a business combination or as an asset acquisition, we make certain judgments, which include assessing whether the acquired set of activities and assets would meet the definition of a business under the relevant accounting rules. 
 
-If the acquired set of activities and assets meets the definition of a business, assets acquired and liabilities assumed are required to be recorded at their respective fair values as of the acquisition date. The excess of the purchase price over the fair value of the acquired net assets, where applicable, is recorded as goodwill. If the acquired set of activities and assets does not meet the definition of a business, the transaction is recorded as an acquisition of assets and, therefore, any acquired IPR&#38;D that does not have an alternative future use is charged to expense at the acquisition date, and goodwill is not recorded. See Note 3 to the consolidated financial statements for additional information. 
+If the acquired set of activities and assets meets the definition of a business, assets acquired and liabilities assumed are required to be recorded at their respective fair values as of the acquisition date. The excess of the purchase price over the fair value of the acquired net assets, where applicable, is recorded as goodwill. If the acquired set of activities and assets does not meet the definition of a business, the transaction is recorded as an acquisition of assets and, therefore, any acquired IPR&D that does not have an alternative future use is charged to expense at the acquisition date, and goodwill is not recorded. See Note 3 to the consolidated financial statements for additional information. 
 
-The judgments made in determining estimated fair values assigned to assets acquired and liabilities assumed in a business combination, as well as estimated asset lives, can materially affect our consolidated results of operations. The fair values of intangible assets, including acquired IPR&#38;D, are determined using information available near the acquisition date based on estimates and assumptions that are deemed reasonable by management. Significant estimates and assumptions include, but are not limited to, probability of technical success, revenue growth and discount rate. Depending on the facts and circumstances, we may deem it necessary to engage an independent valuation expert to assist in valuing significant assets and liabilities. 
+The judgments made in determining estimated fair values assigned to assets acquired and liabilities assumed in a business combination, as well as estimated asset lives, can materially affect our consolidated results of operations. The fair values of intangible assets, including acquired IPR&D, are determined using information available near the acquisition date based on estimates and assumptions that are deemed reasonable by management. Significant estimates and assumptions include, but are not limited to, probability of technical success, revenue growth and discount rate. Depending on the facts and circumstances, we may deem it necessary to engage an independent valuation expert to assist in valuing significant assets and liabilities. 
 
 The fair values of identifiable intangible assets are primarily determined using an "income method," as described in Note 8 to the consolidated financial statements. 
 
@@ -470,9 +470,9 @@ We review the carrying value of long-lived assets (both intangible and tangible)
 
 Goodwill and indefinite-lived intangible assets are reviewed for impairment at least annually, or more frequently if impairment indicators are present, by first assessing qualitative factors to determine whether it is more likely than not that the fair value of the intangible asset is less than its carrying amount. If we conclude it is more likely than not that the fair value is less than the carrying amount, a quantitative test that compares the fair value of the intangible asset to its carrying value is performed to determine the amount of any impairment. 
 
-Several methods may be used to determine the estimated fair value of acquired IPR&#38;D, all of which require multiple assumptions. We utilize the "income method," as described in Note 8 to the consolidated financial statements. 
+Several methods may be used to determine the estimated fair value of acquired IPR&D, all of which require multiple assumptions. We utilize the "income method," as described in Note 8 to the consolidated financial statements. 
 
-For acquired IPR&#38;D assets, the risk of failure has been factored into the fair value measure and there can be no certainty that these assets ultimately will yield a successful product, as discussed previously in "Results of Operations - Executive Overview - Late-Stage Pipeline." The nature of the pharmaceutical business is high-risk and requires that we invest in a large number of projects to maintain a successful portfolio of approved products. As such, it is likely that some acquired IPR&#38;D assets will become impaired in the future. 
+For acquired IPR&D assets, the risk of failure has been factored into the fair value measure and there can be no certainty that these assets ultimately will yield a successful product, as discussed previously in "Results of Operations - Executive Overview - Late-Stage Pipeline." The nature of the pharmaceutical business is high-risk and requires that we invest in a large number of projects to maintain a successful portfolio of approved products. As such, it is likely that some acquired IPR&D assets will become impaired in the future. 
 
 Estimates of future cash flows, based on what we believe to be reasonable and supportable assumptions and projections, require management's judgment. Actual results could vary materially from these estimates. 
 
