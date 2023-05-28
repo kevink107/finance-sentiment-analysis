@@ -1,0 +1,11 @@
+{
+    "AMZN_mda_2022": {
+        "running_score_positive": 38.48032999038696,
+        "running_score_neutral": 8.84326570853591,
+        "running_score_negative": 2.6764040449634194,
+        "chunks": 50,
+        "avg_positive": 0.7696065998077393,
+        "avg_neutral": 0.17686531417071819,
+        "avg_negative": 0.05352808089926839
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "PG_mda_2022": {
+        "running_score_positive": 93.42628368735313,
+        "running_score_neutral": 14.589769374579191,
+        "running_score_negative": 2.98394669033587,
+        "chunks": 111,
+        "avg_positive": 0.8416782314175958,
+        "avg_neutral": 0.13143936373494766,
+        "avg_negative": 0.026882402615638467
+    }
+}

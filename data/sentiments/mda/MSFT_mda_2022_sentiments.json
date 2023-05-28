@@ -1,0 +1,11 @@
+{
+    "MSFT_mda_2022": {
+        "running_score_positive": 48.752690464258194,
+        "running_score_neutral": 8.241757024079561,
+        "running_score_negative": 2.0055520543828607,
+        "chunks": 59,
+        "avg_positive": 0.8263167875297999,
+        "avg_neutral": 0.13969079701829765,
+        "avg_negative": 0.033992407701404416
+    }
+}

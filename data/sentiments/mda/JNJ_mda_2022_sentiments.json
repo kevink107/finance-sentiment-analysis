@@ -1,0 +1,11 @@
+{
+    "JNJ_mda_2022": {
+        "running_score_positive": 54.13564473390579,
+        "running_score_neutral": 11.925164766609669,
+        "running_score_negative": 2.9391903476789594,
+        "chunks": 69,
+        "avg_positive": 0.7845745613609535,
+        "avg_neutral": 0.172828474878401,
+        "avg_negative": 0.042596961560564625
+    }
+}

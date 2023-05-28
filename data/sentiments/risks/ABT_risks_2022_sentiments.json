@@ -1,0 +1,11 @@
+{
+    "ABT_risks_2022": {
+        "running_score_positive": 24.534874439239502,
+        "running_score_neutral": 5.863933002576232,
+        "running_score_negative": 0.6011923309415579,
+        "chunks": 31,
+        "avg_positive": 0.7914475625561129,
+        "avg_neutral": 0.1891591291153623,
+        "avg_negative": 0.01939330099811477
+    }
+}

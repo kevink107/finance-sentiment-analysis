@@ -1,0 +1,11 @@
+{
+    "AMZN_risks_2022": {
+        "running_score_positive": 41.48698025941849,
+        "running_score_neutral": 9.995538171380758,
+        "running_score_negative": 1.5174812283366919,
+        "chunks": 53,
+        "avg_positive": 0.7827732124418583,
+        "avg_neutral": 0.1885950598373728,
+        "avg_negative": 0.028631721289371543
+    }
+}

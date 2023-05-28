@@ -1,0 +1,11 @@
+{
+    "META_mda_2022": {
+        "running_score_positive": 55.50807240605354,
+        "running_score_neutral": 10.40539862215519,
+        "running_score_negative": 3.0865286756306887,
+        "chunks": 69,
+        "avg_positive": 0.8044648174790369,
+        "avg_neutral": 0.15080287858195926,
+        "avg_negative": 0.04473229964682157
+    }
+}

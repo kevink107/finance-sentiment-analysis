@@ -1,0 +1,11 @@
+{
+    "COST_risks_2022": {
+        "running_score_positive": 32.33951872587204,
+        "running_score_neutral": 7.728915736079216,
+        "running_score_negative": 0.9315654188394547,
+        "chunks": 41,
+        "avg_positive": 0.7887687494115132,
+        "avg_neutral": 0.18851013990437113,
+        "avg_negative": 0.022721107776572064
+    }
+}

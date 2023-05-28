@@ -1,0 +1,11 @@
+{
+    "V_mda_2022": {
+        "running_score_positive": 45.24429240822792,
+        "running_score_neutral": 7.909823771566153,
+        "running_score_negative": 1.845883815549314,
+        "chunks": 55,
+        "avg_positive": 0.8226234983314168,
+        "avg_neutral": 0.14381497766483914,
+        "avg_negative": 0.033561523919078434
+    }
+}

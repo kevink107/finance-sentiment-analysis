@@ -1,0 +1,11 @@
+{
+    "LLY_mda_2022": {
+        "running_score_positive": 58.430292427539825,
+        "running_score_neutral": 10.225181406363845,
+        "running_score_negative": 2.344526605680585,
+        "chunks": 71,
+        "avg_positive": 0.8229618651766173,
+        "avg_neutral": 0.14401663952625135,
+        "avg_negative": 0.03302150148845894
+    }
+}

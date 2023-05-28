@@ -4,7 +4,10 @@ import time
 import json
 
 API_URL = "https://api-inference.huggingface.co/models/ProsusAI/finbert"
-headers = {"Authorization": f"Bearer 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"}
+headers = {"Authorization": f"Bearer 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"}
+
+# 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
+# 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
 
 def query(payload):
     response = requests.post(API_URL, headers=headers, json=payload)
@@ -25,6 +28,9 @@ def remove_special_characters(file_path):
     clean_text = clean_text.replace("&#8482;", "")
     clean_text = clean_text.replace("&#38;", "&")
     clean_text = clean_text.replace("&#8221;", "\"")
+    clean_text = clean_text.replace("&#174;", "")
+    clean_text = clean_text.replace("&#8203;", "")
+    clean_text = clean_text.replace("&#8212;", "")
 
 
     # Write the cleaned text back to the file
@@ -43,99 +49,95 @@ def clean_up_files(directory):
             remove_special_characters(file_path)
 
 
-def get_sentiments_json(directory): 
-    CHARS_PER_CHUNK = 500
+def get_sentiments_json(directory, file): 
+    CHARS_PER_CHUNK = 1000
     sentiments = {}
+    f = os.path.join(directory, file)
 
-    for file in os.listdir(directory):
-        f = os.path.join(directory, file)
+    if os.path.isfile(f):
+        file_path = str(f)
+        print("FILE PATH: " + file_path)
 
-        if os.path.isfile(f):
-            file_path = os.path.abspath(f)
-            print("FILE PATH: " + file_path)
+        # Read file to get total words 
+        with open(file_path, 'r') as file_copy:
+            total_words = len(file_copy.read().split())
+            print(total_words)
 
-            # Read file to get total words 
-            with open(file_path, 'r') as file_copy:
-                total_words = len(file_copy.read().split())
-                print(total_words)
+        # Open file for sentiment analysis
+        with open(file_path, 'r') as text_file:
+            words_read = 0
 
-            # Open file for sentiment analysis
-            with open(file_path, 'r') as text_file:
-                words_read = 0
+            # Initialize variables to track scores and batches for each file
+            running_score_positive = 0
+            running_score_neutral = 0
+            running_score_negative = 0
+            num_batches = 0
 
-                # Initialize variables to track scores and batches for each file
-                running_score_positive = 0
-                running_score_neutral = 0
-                running_score_negative = 0
-                num_batches = 0
+            while words_read <= total_words:
+                chunk = text_file.read(CHARS_PER_CHUNK)
+                print("WORDS READ: " + str(words_read) + "/" + str(total_words))
 
-                while words_read <= total_words:
-                    print("WORDS READ: " + str(words_read) + "/" + str(total_words))
-                    chunk = text_file.read(CHARS_PER_CHUNK)
-    
-                    if not chunk:
-                        print("ERROR: not chunk (line 45)")
-                        break
+                if not chunk:
+                    print("ERROR: not chunk (line 45)")
+                    break
 
-                    payload = {"text": chunk}
+                payload = {"text": chunk}
+                response = query(payload)
+
+                if 'error' in response and response['error'] == 'Model ProsusAI/finbert is currently loading':
+                    estimated_time = response['estimated_time']
+                    print(f"Model is loading. Retrying after {estimated_time} seconds...")
+                    time.sleep(estimated_time + 10)
                     response = query(payload)
 
-                    if 'error' in response and response['error'] == 'Model ProsusAI/finbert is currently loading':
-                        estimated_time = response['estimated_time']
-                        print(f"Model is loading. Retrying after {estimated_time} seconds...")
-                        time.sleep(estimated_time + 10)
-                        response = query(payload)
+                print(chunk)
 
-                    print(chunk)
+                # Update the running scores for the current file
+                running_score_positive += response[0]['score']
+                running_score_neutral += response[1]['score']
+                running_score_negative += response[2]['score']
+                num_batches += 1
 
-                    # Update the running scores for the current file
-                    running_score_positive += response[0]['score']
-                    running_score_neutral += response[1]['score']
-                    running_score_negative += response[2]['score']
-                    num_batches += 1
+                words_read += len(chunk.split())
 
-                    words_read += len(chunk.split())
+                print(response)
+                
+                print("-----------------------")
+                print("\n")
 
-                    print(response)
-                    print("-----------------------")
-                    print("\n")
+            # Calculate the average scores for the current file
+            avg_positive = running_score_positive / num_batches
+            avg_neutral = running_score_neutral / num_batches
+            avg_negative = running_score_negative / num_batches
 
-                # Calculate the average scores for the current file
-                avg_positive = running_score_positive / num_batches
-                avg_neutral = running_score_neutral / num_batches
-                avg_negative = running_score_negative / num_batches
+            # Create the JSON structure for the current file
+            file_name = os.path.splitext(file)[0]
+            file_entry = {
+                "running_score_positive": running_score_positive,
+                "running_score_neutral": running_score_neutral,
+                "running_score_negative": running_score_negative,
+                "chunks": num_batches,
+                "avg_positive": avg_positive,
+                "avg_neutral": avg_neutral,
+                "avg_negative": avg_negative
+            }
+            sentiments[file_name] = file_entry
 
-                # Create the JSON structure for the current file
-                file_name = os.path.splitext(file)[0]
-                file_entry = {
-                    "running_score_positive": running_score_positive,
-                    "running_score_neutral": running_score_neutral,
-                    "running_score_negative": running_score_negative,
-                    "chunks": num_batches,
-                    "avg_positive": avg_positive,
-                    "avg_neutral": avg_neutral,
-                    "avg_negative": avg_negative
-                }
-                sentiments[file_name] = file_entry
 
     # Save the JSON to a file
-    output_file = os.path.join("sentiments", f"{directory}_sentiments.json")
+    output_file = os.path.join(f"sentiments/{directory}", f"{file}_sentiments.json")
     with open(output_file, 'w') as json_file:
         json.dump(sentiments, json_file, indent=4)
 
 
 if __name__ == "__main__":
-    # clean_up_files('mda1')
-    # clean_up_files('mda2')
-    # clean_up_files('mda3')
-    # clean_up_files('risks1')
-    # clean_up_files('risks2')
-    # clean_up_files('risks3')
-    # get_sentiments_json('mda1')
-    get_sentiments_json('mda2')
-    # get_sentiments_json('mda3')
-    # get_sentiments_json('risks1')
-    # get_sentiments_json('risks2')
-    # get_sentiments_json('risks3')
-    # get_sentiments_json('test')
+    # clean_up_files('mda')
+    # clean_up_files('risks')
+
+    # Below: first parameter is just the folder of the file; second is the file name
+    get_sentiments_json('risks', 'MRK_risks_2022')
     pass
+
+# Need to find sections for the below companies:
+# Files where the MDA section was empty - MA, JPM, CVX, MCD, XOM
+# Files where the risk section was empty - MCD

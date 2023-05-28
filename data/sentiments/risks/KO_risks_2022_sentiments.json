@@ -1,0 +1,11 @@
+{
+    "KO_risks_2022": {
+        "running_score_positive": 67.97306495904922,
+        "running_score_neutral": 15.875526793301105,
+        "running_score_negative": 3.151408580131829,
+        "chunks": 87,
+        "avg_positive": 0.7812995972304508,
+        "avg_neutral": 0.1824773194632311,
+        "avg_negative": 0.03622308712795205
+    }
+}

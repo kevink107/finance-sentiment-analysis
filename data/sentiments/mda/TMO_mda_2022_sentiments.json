@@ -1,0 +1,11 @@
+{
+    "TMO_mda_2022": {
+        "running_score_positive": 36.2323659658432,
+        "running_score_neutral": 7.198180416598916,
+        "running_score_negative": 1.5694537181407213,
+        "chunks": 45,
+        "avg_positive": 0.805163688129849,
+        "avg_neutral": 0.15995956481330925,
+        "avg_negative": 0.03487674929201603
+    }
+}

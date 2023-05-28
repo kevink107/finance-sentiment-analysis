@@ -1,0 +1,11 @@
+{
+    "GOOG_risks_2022": {
+        "running_score_positive": 60.48641061782837,
+        "running_score_neutral": 16.149096697568893,
+        "running_score_negative": 2.3644922878593206,
+        "chunks": 79,
+        "avg_positive": 0.7656507673142832,
+        "avg_neutral": 0.20441894553884676,
+        "avg_negative": 0.029930282124801526
+    }
+}

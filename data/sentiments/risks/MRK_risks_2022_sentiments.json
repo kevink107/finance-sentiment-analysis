@@ -1,0 +1,11 @@
+{
+    "MRK_risks_2022": {
+        "running_score_positive": 57.24891656637192,
+        "running_score_neutral": 12.753570394590497,
+        "running_score_negative": 1.9975127093493938,
+        "chunks": 72,
+        "avg_positive": 0.79512384119961,
+        "avg_neutral": 0.17713292214709023,
+        "avg_negative": 0.027743232074297138
+    }
+}

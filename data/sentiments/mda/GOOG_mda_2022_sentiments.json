@@ -1,0 +1,11 @@
+{
+    "GOOG_mda_2022": {
+        "running_score_positive": 46.16131028532982,
+        "running_score_neutral": 7.5123034827411175,
+        "running_score_negative": 2.3263859590515494,
+        "chunks": 56,
+        "avg_positive": 0.8243091122380325,
+        "avg_neutral": 0.13414827647751995,
+        "avg_negative": 0.04154260641163481
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "AVGO_risks_2022": {
+        "running_score_positive": 82.58186468482018,
+        "running_score_neutral": 18.53601403720677,
+        "running_score_negative": 2.882121625356376,
+        "chunks": 104,
+        "avg_positive": 0.794056391200194,
+        "avg_neutral": 0.17823090420391124,
+        "avg_negative": 0.027712707936119
+    }
+}

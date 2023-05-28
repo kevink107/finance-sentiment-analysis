@@ -1,0 +1,11 @@
+{
+    "UNH_mda_2022": {
+        "running_score_positive": 34.45660936832428,
+        "running_score_neutral": 7.527714574709535,
+        "running_score_negative": 2.0156763587146997,
+        "chunks": 44,
+        "avg_positive": 0.7831047583710063,
+        "avg_neutral": 0.17108442215248942,
+        "avg_negative": 0.045810826334424994
+    }
+}

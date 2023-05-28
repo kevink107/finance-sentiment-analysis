@@ -1,0 +1,11 @@
+{
+    "CVX_risks_2022": {
+        "running_score_positive": 23.858394503593445,
+        "running_score_neutral": 5.306928493082523,
+        "running_score_negative": 0.8346773525699973,
+        "chunks": 30,
+        "avg_positive": 0.7952798167864482,
+        "avg_neutral": 0.17689761643608412,
+        "avg_negative": 0.027822578418999912
+    }
+}
