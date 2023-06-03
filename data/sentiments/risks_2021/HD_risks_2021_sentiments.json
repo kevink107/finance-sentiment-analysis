@@ -1,0 +1,11 @@
+{
+    "HD_risks_2021": {
+        "running_score_positive": 49.13225096464157,
+        "running_score_neutral": 12.236906686797738,
+        "running_score_negative": 2.6308425776660442,
+        "chunks": 64,
+        "avg_positive": 0.7676914213225245,
+        "avg_neutral": 0.19120166698121466,
+        "avg_negative": 0.04110691527603194
+    }
+}

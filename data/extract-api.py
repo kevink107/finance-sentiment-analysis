@@ -9,7 +9,7 @@ queryApi = QueryApi(api_key="d0532cfd64de3862cfa0ff24ee3b88fbaf543d61bb0c0e6d5ec
 extractorApi = ExtractorApi("d0532cfd64de3862cfa0ff24ee3b88fbaf543d61bb0c0e6d5ec54306f0d8dde1")
 
 
-with open("companies.json", "r") as companies_json_file: 
+with open("companies_2021.json", "r") as companies_json_file: 
   data = json.load(companies_json_file)
 
 companies = data["Companies"]
@@ -43,11 +43,11 @@ for i in range(0, len(companies)):
 
       # Save SEC filing
 
-      file_path = "filings/" + ticker + "_filings_" + formType + "_" + year + ".json"
+      file_path = "filings/2021/" + ticker + "_filings_" + formType + "_" + year + ".json"
       with open(file_path, "w") as filings_json_file:
         json.dump(filings_query, filings_json_file)
 
-      print("Filings saved to filings.json.")
+      print(str(ticker) + ": Filings saved to filings.json.")
 
       # Read filing JSON 
       with open(file_path, "r") as filings_json_file:

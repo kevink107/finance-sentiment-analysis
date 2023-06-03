@@ -1,0 +1,11 @@
+{
+    "AMZN_mda_2021": {
+        "running_score_positive": 41.510068356990814,
+        "running_score_neutral": 8.57834392040968,
+        "running_score_negative": 2.9115877794101834,
+        "chunks": 53,
+        "avg_positive": 0.783208836924355,
+        "avg_neutral": 0.16185554566810717,
+        "avg_negative": 0.054935618479437426
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "ABBV_mda_2021": {
+        "running_score_positive": 50.070234060287476,
+        "running_score_neutral": 8.942734520882368,
+        "running_score_negative": 1.987031513825059,
+        "chunks": 61,
+        "avg_positive": 0.8208235091850405,
+        "avg_neutral": 0.14660220526036669,
+        "avg_negative": 0.03257428711188621
+    }
+}

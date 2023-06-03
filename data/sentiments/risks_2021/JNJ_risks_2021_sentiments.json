@@ -1,0 +1,11 @@
+{
+    "JNJ_risks_2021": {
+        "running_score_positive": 28.38421779870987,
+        "running_score_neutral": 6.530046068131924,
+        "running_score_negative": 1.0857359487563372,
+        "chunks": 36,
+        "avg_positive": 0.7884504944086075,
+        "avg_neutral": 0.1813901685592201,
+        "avg_negative": 0.030159331909898255
+    }
+}

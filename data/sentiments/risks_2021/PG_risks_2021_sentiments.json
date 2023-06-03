@@ -1,0 +1,11 @@
+{
+    "PG_risks_2021": {
+        "running_score_positive": 29.076948821544647,
+        "running_score_neutral": 4.892181556671858,
+        "running_score_negative": 1.0308697763830423,
+        "chunks": 35,
+        "avg_positive": 0.830769966329847,
+        "avg_neutral": 0.13977661590491022,
+        "avg_negative": 0.029453422182372638
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "PEP_risks_2021": {
+        "running_score_positive": 38.971094250679016,
+        "running_score_neutral": 7.931562356650829,
+        "running_score_negative": 1.097343628294766,
+        "chunks": 48,
+        "avg_positive": 0.8118977968891462,
+        "avg_neutral": 0.1652408824302256,
+        "avg_negative": 0.02286132558947429
+    }
+}

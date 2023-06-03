@@ -1,0 +1,11 @@
+{
+    "ABBV_risks_2021": {
+        "running_score_positive": 44.4363928437233,
+        "running_score_neutral": 9.368344083428383,
+        "running_score_negative": 1.1952632376924157,
+        "chunks": 55,
+        "avg_positive": 0.8079344153404235,
+        "avg_neutral": 0.17033352878960697,
+        "avg_negative": 0.02173205886713483
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "NVDA_mda_2021": {
+        "running_score_positive": 35.7750560939312,
+        "running_score_neutral": 6.047908352687955,
+        "running_score_negative": 1.1770358318462968,
+        "chunks": 43,
+        "avg_positive": 0.8319780486960744,
+        "avg_neutral": 0.14064903145785942,
+        "avg_negative": 0.027372926322006903
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "HD_mda_2021": {
+        "running_score_positive": 28.072855830192566,
+        "running_score_neutral": 5.308147273957729,
+        "running_score_negative": 1.6189965028315783,
+        "chunks": 35,
+        "avg_positive": 0.802081595148359,
+        "avg_neutral": 0.15166135068450656,
+        "avg_negative": 0.04625704293804509
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "PFE_mda_2021": {
+        "running_score_positive": 98.92978832125664,
+        "running_score_neutral": 15.290719026699662,
+        "running_score_negative": 4.779493037611246,
+        "chunks": 119,
+        "avg_positive": 0.8313427590021566,
+        "avg_neutral": 0.12849343719915682,
+        "avg_negative": 0.040163807038749964
+    }
+}

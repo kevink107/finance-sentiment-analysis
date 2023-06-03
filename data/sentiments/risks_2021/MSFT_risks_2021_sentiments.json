@@ -1,0 +1,11 @@
+{
+    "MSFT_risks_2021": {
+        "running_score_positive": 53.26983651518822,
+        "running_score_neutral": 14.030162423849106,
+        "running_score_negative": 2.70000141300261,
+        "chunks": 70,
+        "avg_positive": 0.7609976645026888,
+        "avg_neutral": 0.20043089176927295,
+        "avg_negative": 0.038571448757180146
+    }
+}

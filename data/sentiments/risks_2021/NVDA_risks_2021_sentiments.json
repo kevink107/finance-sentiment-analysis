@@ -1,0 +1,11 @@
+{
+    "NVDA_risks_2021": {
+        "running_score_positive": 56.82932296395302,
+        "running_score_neutral": 10.348407426849008,
+        "running_score_negative": 1.8222689777612686,
+        "chunks": 69,
+        "avg_positive": 0.8236133762891742,
+        "avg_neutral": 0.14997691922969575,
+        "avg_negative": 0.02640969532987346
+    }
+}

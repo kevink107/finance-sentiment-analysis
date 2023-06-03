@@ -1,0 +1,11 @@
+{
+    "WMT_mda_2021": {
+        "running_score_positive": 59.79946947097778,
+        "running_score_neutral": 10.471296060830355,
+        "running_score_negative": 2.7292343145236373,
+        "chunks": 73,
+        "avg_positive": 0.8191708146709286,
+        "avg_neutral": 0.14344241179219663,
+        "avg_negative": 0.03738677143183065
+    }
+}

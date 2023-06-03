@@ -1,0 +1,11 @@
+{
+    "KO_risks_2021": {
+        "running_score_positive": 66.29302561283112,
+        "running_score_neutral": 14.86141948029399,
+        "running_score_negative": 3.84555506426841,
+        "chunks": 85,
+        "avg_positive": 0.7799179483862484,
+        "avg_neutral": 0.17484022917992928,
+        "avg_negative": 0.045241824285510705
+    }
+}

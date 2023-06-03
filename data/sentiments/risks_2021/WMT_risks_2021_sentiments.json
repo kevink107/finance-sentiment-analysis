@@ -1,0 +1,11 @@
+{
+    "WMT_risks_2021": {
+        "running_score_positive": 50.26100391149521,
+        "running_score_neutral": 12.730469714850187,
+        "running_score_negative": 2.0085262348875403,
+        "chunks": 65,
+        "avg_positive": 0.7732462140230032,
+        "avg_neutral": 0.1958533802284644,
+        "avg_negative": 0.030900403613654467
+    }
+}

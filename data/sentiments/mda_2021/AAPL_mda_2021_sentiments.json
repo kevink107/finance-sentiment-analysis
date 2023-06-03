@@ -1,0 +1,11 @@
+{
+    "AAPL_mda_2021": {
+        "running_score_positive": 15.89990121126175,
+        "running_score_neutral": 3.210221339017153,
+        "running_score_negative": 0.889877219684422,
+        "chunks": 20,
+        "avg_positive": 0.7949950605630874,
+        "avg_neutral": 0.16051106695085765,
+        "avg_negative": 0.044493860984221104
+    }
+}

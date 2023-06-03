@@ -1,0 +1,11 @@
+{
+    "UNH_risks_2021": {
+        "running_score_positive": 52.496724873781204,
+        "running_score_neutral": 12.48951530829072,
+        "running_score_negative": 2.013759983703494,
+        "chunks": 67,
+        "avg_positive": 0.7835332070713612,
+        "avg_neutral": 0.18641067624314508,
+        "avg_negative": 0.030056119159753644
+    }
+}

@@ -1,0 +1,266 @@
+ ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with "Item 1A. Risk Factors", our Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks described elsewhere in this Annual Report on Form 10-K, before deciding to purchase, hold or sell shares of our common stock. 
+
+Overview 
+
+Our Company and Our Businesses 
+
+NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. Starting with a focus on PC graphics, we extended our focus in recent years to the revolutionary field of AI. Fueled by the sustained demand for exceptional 3D graphics and the scale of the gaming market, NVIDIA leveraged its GPU architecture to create platforms for virtual reality, HPC, and AI. 
+
+Through fiscal year 2020, our reportable segments were GPU and Tegra Processor. We changed our reportable segments to "Graphics" and "Compute & Networking" starting with the first quarter of fiscal year 2021. 
+
+Our Graphics segment includes GeForce GPUs for gaming and PCs, the GeForce NOW game streaming service and related infrastructure, and solutions for gaming platforms; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics; vGPU software for cloud-based visual and virtual computing; and automotive platforms for infotainment systems. 
+
+Our Compute & Networking segment includes Data Center platforms and systems for AI, HPC, and accelerated computing; Mellanox networking and interconnect solutions; automotive AI Cockpit, autonomous driving development agreements, and autonomous vehicle solutions; and Jetson for robotics and other embedded platforms. 
+
+All prior period comparisons presented reflect our new reportable segments. Our market platforms &#8211; Gaming, Professional Visualization, Data Center, Automotive, OEM and Other &#8211; remain unchanged. 
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. 
+
+Recent Developments, Future Objectives and Challenges 
+
+Pending Acquisition of Arm Limited 
+
+On September 13, 2020, we entered into a Purchase Agreement with Arm and SoftBank for us to acquire, from SoftBank, all allotted and issued ordinary shares of Arm in a transaction valued at $40 billion. We paid $2 billion in cash at signing, or the Signing Consideration, and will pay upon closing of the acquisition $10 billion in cash and issue to SoftBank 44.3 million shares of our common stock with an aggregate value of $21.5 billion. The transaction includes a potential earn out, which is contingent on the achievement of certain financial performance targets by Arm during the fiscal year ending March 31, 2022. If the financial performance targets are achieved, Softbank can elect to receive either up to an additional $5 billion in cash or up to an additional 10.3 million shares of our common stock. We will issue up to $1.5 billion in restricted stock units to Arm employees after closing. The $2 billion paid upon signing was allocated between advanced consideration for the acquisition of $1.36 billion and the prepayment of intellectual property licenses from Arm of $0.17 billion and royalties of $0.47 billion, both with a 20-year term. The closing of the acquisition is subject to customary closing conditions, including receipt of specified governmental and regulatory consents and approvals and expiration of any related mandatory waiting period, and Arm's implementation of the reorganization and distribution of Arm's IoT Services Group and certain other assets and liabilities. We are engaged with regulators in the United States, the United Kingdom, the European Union, China and other jurisdictions. If the Purchase Agreement is terminated under certain circumstances, we will be refunded $1.25 billion of the Signing Consideration. The $2 billion payment upon signing was allocated on a fair value basis and any refund of the Signing Consideration will use stated values in the Purchase Agreement. We believe the closing of the acquisition will likely occur in the first quarter of calendar year 2022. 
+
+Demand 
+
+Our products are manufactured based on estimates of customers' future demand and our manufacturing lead times are very long. This could lead to a significant mismatch between supply and demand, giving rise to product shortages or excess inventory, and make our demand forecast more uncertain. We sell many of our products through a channel model, and our channel customers sell to retailers, distributors, and/or end customers. As a result, the decisions made 
+
+by our channel partners, retailers, and distributors in response to changing market conditions and the changing demand for our products could impact our financial results. In order to have shorter shipment lead times and quicker delivery schedules for our customers, we may build inventory for anticipated periods of growth which do not occur, may build inventory anticipating demand that does not materialize, or may build inventory to serve what we believe is pent-up demand. In periods with limited availability of capacity and components in our supply chain, we may place non-cancellable inventory orders significantly in advance of our normal lead times, pay premiums or provide deposits to secure normal and incremental future supply, which could negatively impact our financial results. Demand for our products is based on many factors, including our product introductions and transitions, competitor announcements, and competing technologies, all of which can impact the timing and amount of our revenue. For example, our GPUs for gaming are capable of digital currency mining. Demand and use of GPUs for cryptocurrency has fluctuated in the past and is likely to continue to change quickly. Volatility in the cryptocurrency market, including changes in the prices of cryptocurrencies, can impact demand for our products and our ability to estimate demand for our products. Changes to cryptocurrency standards and processes including, but not limited to, the pending Ethereum 2.0 standard may also create increased aftermarket resales of our GPUs and may reduce demand for our new GPUs. Additionally, consumer behavior during the COVID-19 pandemic, such as increased demand for our Gaming, Data Center and mobile workstation and laptop products and suppressed corporate demand for desktop workstations, has made it more difficult for us to estimate future demand, and these challenges may be more pronounced in the future if and when the effects of the pandemic subside. In estimating demand and evaluating trends, we make multiple assumptions, any of which may prove to be incorrect. 
+
+COVID-19 
+
+The worldwide COVID-19 pandemic is prompting governments and businesses to take unprecedented measures including restrictions on travel, temporary business closures, quarantines and shelter-in-place orders. It has significantly impacted global economic activity and caused volatility and disruption in global financial markets. Since March 2020, most of our employees have been working remotely and we have temporarily prohibited most business travel. 
+
+Our Gaming and Data Center market platforms have benefited from stronger demand as people continue to work, learn, and play from home. In Professional Visualization, mobile workstations continue to benefit from work-from-home trends, and desktop workstation demand has started to recover, although not back to pre-COVID levels. In Automotive, COVID is no longer having a significant impact on demand. Throughout our supply chain, stronger demand globally has limited the availability of capacity and components, particularly in Gaming. 
+
+As the COVID-19 pandemic continues, the timing and overall demand from customers and the availability of supply chain, logistical services and component supply may have a material net negative impact on our business and financial results. Refer to Part I, Item 1A of this Annual Report on Form 10-K for additional information under the heading "Risk Factors". 
+
+We believe our existing balances of cash, cash equivalents and marketable securities, along with commercial paper and other short-term liquidity arrangements, will be sufficient to satisfy its working capital needs, capital asset purchases, dividends, debt repayments and other liquidity requirements associated with its existing operations. 
+
+Fiscal Year 2021 Summary 
+
+##TABLE_START  Year Ended  January 31, 2021 January 26, 2020 Change ($ in millions, except per share data) Revenue $ 16,675 $ 10,918 Up 53% Gross margin 62.3 % 62.0 % Up 30 bps Operating expenses $ 5,864 $ 3,922 Up 50% Income from operations $ 4,532 $ 2,846 Up 59% Net income $ 4,332 $ 2,796 Up 55% Net income per diluted share $ 6.90 $ 4.52 Up 53% ##TABLE_END
+
+Revenue for fiscal year 2021 was $16.68 billion, up 53% from a year earlier. 
+
+From a market-platform perspective, Gaming revenue was up 41% from a year ago, reflecting higher sales across desktop and laptop GPUs for gaming, and game-console SOCs. GPUs for gaming benefited from the ramp of our GeForce RTX 30 Series based on the NVIDIA Ampere architecture. 
+
+Professional Visualization revenue was down 13% from a year ago due to lower sales of GPUs for desktop workstations as enterprise demand was impacted by COVID. 
+
+Data Center revenue was up 124% from a year ago. Revenue growth was driven by our Mellanox acquisition and the ramp of the NVIDIA Ampere GPU architecture. In fiscal year 2021, Mellanox revenue contributed 10% of total company revenue. 
+
+Automotive revenue was down 23% from a year earlier, reflecting lower revenue from the expected ramp down of legacy infotainment modules and autonomous driving development agreements, partially offset by increases in AI cockpit and autonomous vehicle solutions. 
+
+OEM and Other revenue was up 25% from a year ago, primarily due to higher volume of entry-level laptop GPUs. 
+
+Gross margin for fiscal year 2021 was up 30 basis points from a year ago, primarily driven by product mix with higher Data Center and lower Automotive revenue, partially offset by Mellanox acquisition-related charges. 
+
+Operating expenses for fiscal year 2021 were $5.86 billion, up 50% from a year ago. The growth was influenced by the inclusion of Mellanox in the second quarter of fiscal year 2021, employee additions and increases in employee compensation and related expenses. Additionally, acquisition-related and other costs of $411 million primarily include $190 million in non-recurring intangible amortization of Mellanox order backlog, $123 million in recurring amortization of Mellanox intangible assets, and $40 million related to the pending acquisition of Arm. 
+
+Income from operations for fiscal year 2021 was $4.53 billion, up 59% from a year earlier. Net income and net income per diluted share for fiscal year 2021 were $4.33 billion and $6.90, up 55% and 53%, respectively, from a year earlier. 
+
+Cash, cash equivalents and marketable securities were $11.56 billion as of January 31, 2021, compared with $10.90 billion as of January 26, 2020. The increase primarily reflects the issuance of the $5 billion of notes in March 2020 and cash-flow generation, partially offset by acquisitions. 
+
+We paid $395 million in quarterly cash dividends in fiscal year 2021. 
+
+Market Platform Highlights 
+
+During fiscal year 2021, in our Gaming platform, we announced the launch of new laptop models powered by NVIDIA GeForce GPUs; unveiled GeForce RTX 30 Series GPUs including our second generation NVIDIA RTX; expanded NVIDIA GeForce NOW; announced that a range of games now support NVIDIA RTX ray tracing and DLSS AI super resolution; unveiled NVIDIA Reflex and NVIDIA Broadcast; expanded the RTX Studio lineup powered by new GeForce RTX SUPER GPUs; and released DLSS 2.0. 
+
+In our Professional Visualization platform, we launched mobile workstations with Acer, Dell, HP, Lenovo and Microsoft based on NVIDIA Quadro graphics for professional creators; released NVIDIA Quadro View; collaborated with Adobe to bring GPU-accelerated neural filters to Adobe Photoshop AI-powered tools; powered Autodesk's latest 3D visualization software with NVIDIA Quadro RTX; and collaborated with many other independent software vendors to help incorporate NVIDIA RTX and AI technology in their applications. 
+
+In our Data Center platform, we announced the NVIDIA A100 Tensor Core GPU and DGX A100, the first products based on the NVIDIA Ampere architecture; announced more than 50 NVIDIA A100-powered systems with OEM partners and released NVIDIA-Certified Systems with NVIDIA A100 GPUs to OEMs; shared news that major cloud providers, including Google Cloud Platform, AWS, Microsoft Azure and Oracle Cloud Infrastructure, reached general availability of cloud computing instances based on the NVIDIA A100 GPU; announced the NVIDIA DGX SuperPOD Solution for Enterprise; introduced the new family of NVIDIA BlueField-2 DPUs; introduced new products for the EGX Edge AI platform; announced a broad partnership with VMware to create an end-to-end enterprise platform for AI and a new architecture for data center, cloud and edge; powered eight of the top 10, and two-thirds of the total systems, on the latest TOP500 list of the world's fastest supercomputers; announced that five supercomputers backed by EuroHPC will use NVIDIA's data center accelerators or networking; and set 16 AI performance records on the latest MLPerf benchmarks. 
+
+In our Automotive platform, we announced with Mercedes-Benz that the automaker will launch software-defined, intelligent vehicles using end-to-end NVIDIA technology starting in 2024; announced that NVIDIA DRIVE autonomous 
+
+driving technology is powering a range of electric vehicles from carmakers SAIC, Nio, Li Auto, Xpeng, robotaxi-maker Zoox, and cabless truck-maker Einride; announced that NVIDIA is powering the new Mercedes-Benz AI cockpit in the first half of 2021; announced that Hyundai Motor Group's entire lineup of Hyundai, Kia and Genesis models will come standard with NVIDIA DRIVE in-vehicle infotainment systems starting in 2022; and expanded the NVIDIA DRIVE sensor ecosystem with new solutions. 
+
+Critical Accounting Policies and Estimates 
+
+Management's discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States, or U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue, cost of revenue, expenses and related disclosure of contingencies. On an on-going basis, we evaluate our estimates, including those related to business combinations, inventories, revenue recognition, income taxes, and goodwill. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. 
+
+We believe the following critical accounting policies affect our significant judgments and estimates used in the preparation of our consolidated financial statements. Our management has discussed the development and selection of these critical accounting policies and estimates with the Audit Committee of our Board of Directors. The Audit Committee has reviewed our disclosures relating to our critical accounting policies and estimates in this Annual Report on Form 10-K. 
+
+Business Combinations 
+
+The application of acquisition accounting to a business acquisition requires that we identify the individual assets acquired and liabilities assumed and estimate the fair value of each. The fair value of assets acquired and liabilities assumed in a business acquisition are recognized at the acquisition date, with the purchase price exceeding the fair values being recognized as goodwill. Determining fair value of identifiable assets, particularly intangibles, liabilities acquired and contingent obligations assumed requires management to make estimates. In certain circumstances, the allocations of the purchase price are based upon preliminary estimates and assumptions and subject to revision when we receive final information, including appraisals and other analyses. Accordingly, the measurement period for such purchase price allocations will end when the information, or the facts and circumstances, becomes available, but will not exceed twelve months. We will recognize measurement-period adjustments during the period of resolution, including the effect on earnings of any amounts that would have been recorded in previous periods if the accounting had been completed at the acquisition date. 
+
+Goodwill and intangible assets often represent a significant portion of the assets acquired in a business combination. We recognize the fair value of an acquired intangible apart from goodwill whenever the intangible arises from contractual or other legal rights, or when it can be separated or divided from the acquired entity and sold, transferred, licensed, rented or exchanged, either individually or in combination with a related contract, asset or liability. Intangible assets consist primarily of technology, customer relationships, order backlog and trade name acquired in a business combination and in-process research and development, or IPR&D. We generally assess the estimated fair values of acquired intangibles using a combination of valuation techniques. To estimate fair value, we are required to make certain estimates and assumptions, including future economic and market conditions, revenue growth, technology migration curve, and risk-adjusted discount rates. Our estimates require significant judgment and are based on historical data, various internal estimates, and external sources. Our assessment of IPR&D also includes consideration of the risk of the projects not achieving technological feasibility. 
+
+Inventories 
+
+Inventory cost is computed on an adjusted standard basis, which approximates actual cost on an average or first-in, first-out basis. We charge cost of sales for inventory provisions to write-down our inventory to the lower of cost or net realizable value or for obsolete or excess inventory. Most of our inventory provisions relate to excess quantities of products or components, based on our inventory levels and future product purchase commitments compared to assumptions about future demand and market conditions. 
+
+Situations that may result in excess or obsolete inventory include changes in business and economic conditions, changes in market conditions, sudden and significant decreases in demand for our products, inventory obsolescence because of changing technology and customer requirements, failure to estimate customer demand properly, or 
+
+unexpected competitive pricing actions by our competition. In addition, cancellation or deferral of customer purchase orders could result in our holding excess inventory. 
+
+The overall net effect on our gross margin from inventory provisions and sales of items previously written down was insignificant in fiscal years 2021 and 2020. As a fabless semiconductor company, we must make commitments to purchase inventory based on forecasts of future customer demand. In doing so, we must account for our third-party manufacturers' lead times and constraints. We also adjust to other market factors, such as product offerings and pricing actions by our competitors, new product transitions, and macroeconomic conditions - all of which may impact demand for our products. 
+
+Refer to the Gross Profit and Gross Margin discussion below in this Management's Discussion and Analysis for further discussion. 
+
+Revenue Recognition 
+
+We derive our revenue from product sales, including hardware and systems, license and development arrangements, and software licensing. We determine revenue recognition through the following steps: (1) identification of the contract with a customer; (2) identification of the performance obligations in the contract; (3) determination of the transaction price; (4) allocation of the transaction price to the performance obligations in the contract (where revenue is allocated on a relative standalone selling price basis by maximizing the use of observable inputs to determine the standalone selling price for each performance obligation); and (5) recognition of revenue when, or as, we satisfy a performance obligation. 
+
+Product Sales Revenue 
+
+Revenue from product sales is recognized upon transfer of control of promised products to customers in an amount that reflects the consideration we expect to receive in exchange for those products. Certain products are sold along with support or extended warranty. Support and extended warranty revenue is recognized ratably over the service period, or as services are performed. Revenue is recognized net of allowances for returns, customer programs and any taxes collected from customers. 
+
+For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates. However, if product returns for a fiscal period are anticipated to exceed historical return rates, we may determine that additional sales return allowances are required to properly reflect our estimated exposure for product returns. 
+
+Our customer programs involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and marketing development funds, or MDFs, which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners' activities while also promoting NVIDIA products. We account for customer programs as a reduction to revenue and accrue for potential rebates and MDFs based on the amount we expect to be claimed by customers. 
+
+License and Development Arrangements 
+
+Our license and development arrangements with customers typically require significant customization of our intellectual property components. As a result, we recognize the revenue from the license and the revenue from the development services as a single performance obligation over the period in which the development services are performed. We measure progress to completion based on actual cost incurred to date as a percentage of the estimated total cost required to complete each project. If a loss on an arrangement becomes probable during a period, we record a provision for such loss in that period. 
+
+Refer to Note 1 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Income Taxes 
+
+We recognize federal, state and foreign current tax liabilities or assets based on our estimate of taxes payable or refundable in the current fiscal year by tax jurisdiction. We recognize federal, state and foreign deferred tax assets or liabilities, as appropriate, for our estimate of future tax effects attributable to temporary differences and carryforwards; and we record a valuation allowance to reduce any deferred tax assets by the amount of any tax benefits that, based on available evidence and judgment, are not expected to be realized. 
+
+Our calculation of deferred tax assets and liabilities is based on certain estimates and judgments and involves dealing with uncertainties in the application of complex tax laws. Our estimates of deferred tax assets and liabilities may change 
+
+based, in part, on added certainty or finality to an anticipated outcome, changes in accounting standards or tax laws in the United States, or foreign jurisdictions where we operate, or changes in other facts or circumstances. In addition, we recognize liabilities for potential United States and foreign income tax contingencies based on our estimate of whether, and the extent to which, additional taxes may be due. If we determine that payment of these amounts is unnecessary or if the recorded tax liability is less than our current assessment, we may be required to recognize an income tax benefit or additional income tax expense in our financial statements accordingly. 
+
+As of January 31, 2021, we had a valuation allowance of $728 million related to state and certain foreign deferred tax assets that management determined are not likely to be realized due to jurisdictional projections of future taxable income, tax attributes usage limitation by certain jurisdictions, and potential utilization limitations of tax attributes acquired as a result of stock ownership changes. To the extent realization of the deferred tax assets becomes more-likely-than-not, we would recognize such deferred tax assets as an income tax benefit during the period. 
+
+We recognize the benefit from a tax position only if it is more-likely-than-not that the position would be sustained upon audit based solely on the technical merits of the tax position. Our policy is to include interest and penalties related to unrecognized tax benefits as a component of income tax expense. 
+
+Refer to Note 14 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Goodwill 
+
+Goodwill is subject to our annual impairment test during the fourth quarter of our fiscal year, or earlier, if indicators of potential impairment exist, using either a qualitative or a quantitative assessment. Our impairment review process compares the fair value of the reporting unit in which the goodwill resides to its carrying value. We changed our reportable segments to "Graphics" and "Compute & Networking" starting with the first quarter of fiscal year 2021. As a result, our reporting units also changed, and we reassigned the goodwill balance to the new reporting units based on their relative fair values. We determined there was no goodwill impairment immediately prior to the reorganization. As of January 31, 2021, the total carrying amount of goodwill was $4.19 billion and the amount of goodwill allocated to our Graphics and Compute & Networking reporting units was $347 million and $3.85 billion, respectively. Determining the fair value of a reporting unit requires us to make judgments and involves the use of significant estimates and assumptions. We also make judgments and assumptions in allocating assets and liabilities to each of our reporting units. We base our fair value estimates on assumptions we believe to be reasonable but that are unpredictable and inherently uncertain. 
+
+We performed our annual goodwill assessment during the fourth quarter of fiscal year 2021 using a qualitative assessment and concluded there was no goodwill impairment. 
+
+Refer to Note 6 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Results of Operations 
+
+A discussion regarding our financial condition and results of operations for fiscal year 2021 compared to fiscal year 2020 is presented below. A discussion regarding our financial condition and results of operations for fiscal year 2020 compared to fiscal year 2019 can be found under Item 7 in our Annual Report on Form 10-K for the fiscal year ended January 26, 2020, filed with the SEC on February 20, 2020, which is available free of charge on the SEC's website at http://www.sec.gov and at our investor relations website, http://investor.nvidia.com. 
+
+The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue. 
+
+##TABLE_START  Year Ended  January 31, 2021 January 26, 2020 Revenue 100.0 % 100.0 % Cost of revenue 37.7 38.0 Gross profit 62.3 62.0 Operating expenses:  Research and development 23.5 25.9 Sales, general and administrative 11.6 10.0 Total operating expenses 35.1 35.9 Income from operations 27.2 26.1 Interest income 0.3 1.6 Interest expense (1.1) (0.5) Other, net 0.1  Other income (expense), net (0.7) 1.1 Income before income tax expense 26.5 27.2 Income tax expense 0.5 1.6 Net income 26.0 % 25.6 % ##TABLE_END
+
+Revenue 
+
+Revenue by Reportable Segments 
+
+##TABLE_START Year Ended January 31, 2021 January 26, 2020 $ Change % Change ($ in millions) Graphics $ 9,834 $ 7,639 $ 2,195 29 % Compute & Networking 6,841 3,279 3,562 109 % Total $ 16,675 $ 10,918 $ 5,757 53 % ##TABLE_END
+
+Graphics - Graphics segment revenue increased by 29% in fiscal year 2021 compared to fiscal year 2020, reflecting growth in GeForce GPUs and game console SOCs, partially offset by lower sales of Quadro/NVIDIA RTX workstations. 
+
+Compute & Networking - Compute & Networking segment revenue increased by 109% in fiscal year 2021 compared to fiscal year 2020, reflecting the addition of Mellanox acquired on April 27, 2020 and the continued ramp of NVIDIA Ampere GPU architecture systems and new products. 
+
+Concentration of Revenue 
+
+Revenue from sales to customers outside of the United States accounted for 81% and 92% of total revenue for fiscal years 2021 and 2020, respectively. Revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if the revenue is attributable to end customers in a different location. 
+
+No customer represented 10% or more of total revenue for fiscal year 2021. Dell represented approximately 11% of our total revenue for fiscal year 2020, and was attributable primarily to the Graphics segment. 
+
+Gross Profit and Gross Margin 
+
+Gross profit consists of total revenue, net of allowances, less cost of revenue. Cost of revenue consists primarily of the cost of semiconductors purchased from subcontractors, including wafer fabrication, assembly, testing and packaging, board and device costs, manufacturing support costs, including labor and overhead associated with such purchases, final test yield fallout, inventory and warranty provisions, memory and component costs, and shipping costs. Cost of 
+
+revenue also includes acquisition-related costs, development costs for license and service arrangements, IP-related costs, and stock-based compensation related to personnel associated with manufacturing. 
+
+Our overall gross margin was 62.3% and 62.0% for fiscal years 2021 and 2020, respectively. The increase in fiscal year 2021 was driven by product mix with higher Data Center and lower Automotive revenue, partially offset by Mellanox acquisition-related charges, including a non-recurring inventory step-up charge of $161 million and ongoing intangible asset amortization of $263 million. 
+
+Inventory provisions totaled $116 million and $161 million for fiscal years 2021 and 2020, respectively. Sales of inventory that was previously written-off or written-down totaled $145 million for both fiscal years 2021 and 2020. As a result, the overall net effect on our gross margin was insignificant in both fiscal years 2021 and 2020. 
+
+A discussion of our gross margin results for each of our reportable segments is as follows: 
+
+Graphics - The gross margin of our Graphics segment increased during fiscal year 2021 when compared to fiscal year 2020, primarily driven by product mix with lower legacy automotive infotainment revenue and higher margin mix within Quadro/Nvidia RTX. 
+
+Compute & Networking - The gross margin of our Compute & Networking segment increased during fiscal year 2021 when compared to fiscal year 2020, primarily driven by the addition of Mellanox products, higher margins in Data Center compute systems, and lower product mix of certain Automotive solutions. 
+
+Operating Expenses 
+
+##TABLE_START  Year Ended  January 31, 2021 January 26, 2020 $ Change % Change  ($ in millions) Research and development expenses $ 3,924 $ 2,829 $ 1,095 39 % % of net revenue 23.5 % 25.9 %   Sales, general and administrative expenses 1,940 1,093 847 77 % % of net revenue 11.6 % 10.0 %   Total operating expenses $ 5,864 $ 3,922 $ 1,942 50 % ##TABLE_END
+
+Research and Development 
+
+Research and development expenses increased by 39% in fiscal year 2021 compared to fiscal year 2020, driven primarily by the acquisition of Mellanox. In addition, the increases reflect employee compensation and related costs, including stock-based compensation, and infrastructure costs. 
+
+Sales, General and Administrative 
+
+Sales, general and administrative expenses increased by 77% in fiscal year 2021 compared to fiscal year 2020, driven primarily by the Mellanox acquisition. In addition, the increases reflect employee compensation and related costs, including stock-based compensation. 
+
+Other Income (Expense), Net 
+
+Interest income consists of interest earned on cash, cash equivalents and marketable securities. Interest income was $57 million and $178 million in fiscal years 2021 and 2020, respectively. The decrease in interest income was primarily due to lower interest rates earned on our investments. 
+
+Interest expense is primarily comprised of coupon interest and debt discount amortization related to our September 2016 Notes and March 2020 Notes. Interest expense was $184 million and $52 million in fiscal years 2021 and 2020, respectively. 
+
+Income Taxes 
+
+We recognized income tax expense of $77 million and $174 million for fiscal years 2021 and 2020, respectively. Our annual effective tax rate was 1.7% and 5.9% for fiscal years 2021 and 2020, respectively. 
+
+The decrease in our effective tax rate in fiscal year 2021 as compared to fiscal year 2020 was primarily due to a decrease in the proportional amount of earnings subject to United States tax and an increase of tax benefits from stock-based compensation. 
+
+Our effective tax rate for fiscal years 2021 and 2020 was lower than the U.S. federal statutory rate of 21% due primarily to income earned in jurisdictions, including the British Virgin Islands, Israel, and Hong Kong, where the tax rate was lower than the U.S. federal statutory tax rate, recognition of U.S. federal research tax credits, and excess tax benefits related to stock-based compensation. 
+
+Refer to Note 14 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Liquidity and Capital Resources 
+
+##TABLE_START  January 31, 2021 January 26, 2020  (In millions) Cash and cash equivalents $ 847 $ 10,896 Marketable securities 10,714 1 Cash, cash equivalents, and marketable securities $ 11,561 $ 10,897 ##TABLE_END
+
+##TABLE_START  Year Ended January 31, 2021 January 26, 2020  (In millions) Net cash provided by operating activities $ 5,822 $ 4,761 Net cash provided by (used in) investing activities $ (19,675) $ 6,145 Net cash provided by (used in) financing activities $ 3,804 $ (792) ##TABLE_END
+
+As of January 31, 2021, we had $11.56 billion in cash, cash equivalents and marketable securities, an increase of $664 million from the end of fiscal year 2020. Our investment policy requires the purchase of highly rated fixed income securities, the diversification of investment types and credit exposures, and certain maturity limits on our portfolio. 
+
+In the third quarter of fiscal year 2021, we paid $2 billion as part of the proposed acquisition of Arm, which was allocated between advanced consideration for the acquisition of $1.36 billion, the prepayment of intellectual property licenses from Arm of $0.17 billion and royalties of $0.47 billion. The cash flow allocation of the payment resulted in $1.36 billion of advanced consideration included in acquisitions, net of cash acquired, $0.17 billion for the intellectual property license included in purchases related to property and equipment and intangible assets and $0.47 billion in prepayment of royalties included in changes in prepaid expenses and other assets. 
+
+Cash provided by operating activities increased in fiscal year 2021 compared to fiscal year 2020, due to higher net income, higher non-cash adjustments, partially offset by changes in working capital. Changes in working capital include increases in purchases of inventory and outstanding trade receivables, both due to higher fiscal year 2021 revenue, and a prepayment of royalties to Arm. 
+
+Cash used in investing activities increased in fiscal year 2021 compared to cash provided in fiscal year 2020, which primarily reflects cash used for the acquisition of Mellanox and the advanced consideration for the proposed acquisition of Arm, higher purchases of marketable securities, higher purchases of property and equipment and intangible assets, and lower sales of marketable securities, offset by higher maturities of marketable securities. 
+
+Cash provided by financing activities increased in fiscal year 2021 compared to cash used in fiscal year 2020, which primarily reflects the debt issued in the first quarter of fiscal year 2021, offset by payments related to tax on restricted stock units. 
+
+Liquidity 
+
+Our primary sources of liquidity are our cash and cash equivalents, our marketable securities, and the cash generated by our operations. As of January 31, 2021, we had $11.56 billion in cash, cash equivalents and marketable securities. We believe that we have sufficient liquidity to meet our operating requirements for at least the next twelve months, including our proposed acquisition of Arm. We continuously evaluate our liquidity and capital resources, including our access to external capital, to ensure we can adequately and efficiently finance our capital requirements beyond twelve months. Refer to Note 2 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Our marketable securities consist of debt securities issued by the U.S. government and its agencies, highly rated corporations and financial institutions, and foreign government entities, and certificates of deposits. These marketable securities are primarily denominated in U.S. dollars. Refer to Note 8 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+During fiscal year 2022, we expect to use our existing cash and cash equivalents, our marketable securities, and the cash generated by our operations to fund our capital investments of approximately $1.0 billion to $1.2 billion related to property and equipment, including construction of a new building at our Santa Clara campus. 
+
+We have approximately $1.38 billion of cash, cash equivalents, and marketable securities held outside the U.S. for which we have not accrued any related foreign or state taxes if we repatriate these amounts to the U.S. Other than that, substantially all of our cash, cash equivalents and marketable securities held outside of the U.S. as of January 31, 2021 are available for use in the U.S. without incurring additional U.S. federal income taxes. Refer to Note 14 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Capital Return to Shareholders 
+
+In fiscal year 2021, we paid $395 million in quarterly cash dividends. Our cash dividend program and the payment of future cash dividends under that program are subject to our Board's continuing determination that the dividend program and the declaration of dividends thereunder are in the best interests of our shareholders. 
+
+As of January 31, 2021, we were authorized, subject to certain specifications, to repurchase additional shares of our common stock up to $7.24 billion through December 2022. We did not repurchase any shares during fiscal year 2021. 
+
+Outstanding Indebtedness and Credit Facilities 
+
+We have outstanding $1.50 billion of Notes Due 2030, $1.00 billion of Notes Due 2040, $2.00 billion of Notes Due 2050, and $500 million of Notes due 2060, or collectively, the March 2020 Notes. 
+
+We have outstanding $1.00 billion of Notes due 2021 and $1.00 billion of Notes due 2026, or collectively, the September 2016 Notes. 
+
+We have a Credit Agreement under which we may borrow up to $575 million for general corporate purposes and can obtain revolving loan commitments up to $425 million. As of January 31, 2021, we had not borrowed any amounts under this agreement. 
+
+We have a $575 million commercial paper program to support general corporate purposes. As of January 31, 2021, we had not issued any commercial paper. 
+
+Refer to Note 12 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further discussion. 
+
+Contractual Obligations 
+
+We have $157 million of long-term tax liabilities related to tax basis differences in Mellanox and unrecognized tax benefits of $395 million, which includes related interest and penalties of $43 million recorded in non-current income tax payable as of January 31, 2021. We are unable to reasonably estimate the timing of any potential tax liability, interest payments, or penalties in individual years due to uncertainties in the underlying income tax positions and the timing of the effective settlement of such tax positions. We are currently under examination by the Internal Revenue Service for our fiscal years 2018 and 2019. Refer to Note 14 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further information. 
+
+For a description of our long-term debt, purchase obligations, and operating lease obligations, refer to Note 12, Note 13, and Note 3 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K, respectively. 
+
+Adoption of New and Recently Issued Accounting Pronouncements 
+
+Refer to Note 1 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for a discussion of adoption of new and recently issued accounting pronouncements. 
+

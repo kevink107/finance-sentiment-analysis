@@ -4,10 +4,8 @@ import time
 import json
 
 API_URL = "https://api-inference.huggingface.co/models/ProsusAI/finbert"
-headers = {"Authorization": f"Bearer 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"}
+headers = {"Authorization": f"Bearer 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"}
 
-# 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
-# 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
 
 def query(payload):
     response = requests.post(API_URL, headers=headers, json=payload)
@@ -31,7 +29,6 @@ def remove_special_characters(file_path):
     clean_text = clean_text.replace("&#174;", "")
     clean_text = clean_text.replace("&#8203;", "")
     clean_text = clean_text.replace("&#8212;", "")
-
 
     # Write the cleaned text back to the file
     with open(file_path, 'w') as file:
@@ -123,7 +120,7 @@ def get_sentiments_json(directory, file):
             }
             sentiments[file_name] = file_entry
 
-
+    print(file)
     # Save the JSON to a file
     output_file = os.path.join(f"sentiments/{directory}", f"{file}_sentiments.json")
     with open(output_file, 'w') as json_file:
@@ -131,13 +128,11 @@ def get_sentiments_json(directory, file):
 
 
 if __name__ == "__main__":
-    # clean_up_files('mda')
-    # clean_up_files('risks')
+    # Run the two lines below to clean up the files and get rid of special characters
+    # clean_up_files('mda_2021')
+    # clean_up_files('risks_2021')
 
     # Below: first parameter is just the folder of the file; second is the file name
-    get_sentiments_json('risks', 'MRK_risks_2022')
+    get_sentiments_json(directory='risks_2021', file='V_risks_2021')
+    get_sentiments_json(directory='risks_2021', file='WMT_risks_2021')
     pass
-
-# Need to find sections for the below companies:
-# Files where the MDA section was empty - MA, JPM, CVX, MCD, XOM
-# Files where the risk section was empty - MCD

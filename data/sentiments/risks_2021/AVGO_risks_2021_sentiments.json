@@ -1,0 +1,11 @@
+{
+    "AVGO_risks_2021": {
+        "running_score_positive": 81.19349783658981,
+        "running_score_neutral": 17.02410950511694,
+        "running_score_negative": 2.782393781468272,
+        "chunks": 101,
+        "avg_positive": 0.8038960181840575,
+        "avg_neutral": 0.16855553965462317,
+        "avg_negative": 0.02754845328186408
+    }
+}

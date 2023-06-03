@@ -1,0 +1,11 @@
+{
+    "LLY_risks_2021": {
+        "running_score_positive": 28.25589346885681,
+        "running_score_neutral": 5.963103594258428,
+        "running_score_negative": 0.7810029219835997,
+        "chunks": 35,
+        "avg_positive": 0.8073112419673375,
+        "avg_neutral": 0.17037438840738364,
+        "avg_negative": 0.02231436919953142
+    }
+}

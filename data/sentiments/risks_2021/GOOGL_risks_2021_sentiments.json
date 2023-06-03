@@ -1,0 +1,11 @@
+{
+    "GOOGL_risks_2021": {
+        "running_score_positive": 60.149547666311264,
+        "running_score_neutral": 15.581708883866668,
+        "running_score_negative": 2.268743778578937,
+        "chunks": 78,
+        "avg_positive": 0.7711480470039905,
+        "avg_neutral": 0.1997654985111111,
+        "avg_negative": 0.02908645869972996
+    }
+}

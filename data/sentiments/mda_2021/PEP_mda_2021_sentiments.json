@@ -1,0 +1,11 @@
+{
+    "PEP_mda_2021": {
+        "running_score_positive": 223.78421080112457,
+        "running_score_neutral": 28.459788478910923,
+        "running_score_negative": 7.756000535096973,
+        "chunks": 260,
+        "avg_positive": 0.8607085030812484,
+        "avg_neutral": 0.10946072491888817,
+        "avg_negative": 0.02983077128883451
+    }
+}

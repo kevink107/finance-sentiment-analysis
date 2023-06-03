@@ -1,0 +1,11 @@
+{
+    "MRK_mda_2021": {
+        "running_score_positive": 119.02816325426102,
+        "running_score_neutral": 20.70312037691474,
+        "running_score_negative": 4.26871670037508,
+        "chunks": 144,
+        "avg_positive": 0.8265844670434793,
+        "avg_neutral": 0.14377166928413013,
+        "avg_negative": 0.029643865974826947
+    }
+}

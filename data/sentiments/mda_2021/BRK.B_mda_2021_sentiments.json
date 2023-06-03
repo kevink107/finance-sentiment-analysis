@@ -1,0 +1,11 @@
+{
+    "BRK": {
+        "running_score_positive": 121.53180485963821,
+        "running_score_neutral": 19.843393867835402,
+        "running_score_negative": 4.624801106750965,
+        "chunks": 146,
+        "avg_positive": 0.8324096223262891,
+        "avg_neutral": 0.13591365662900962,
+        "avg_negative": 0.031676719909253186
+    }
+}
