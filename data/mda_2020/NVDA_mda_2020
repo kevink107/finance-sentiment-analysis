@@ -1,0 +1,980 @@
+ ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with "Item 1A. Risk Factors", "Item 6. Selected Financial Data", our Consolidated Financial Statements and related Notes thereto, as well as other cautionary statements and risks described elsewhere in this Annual Report on Form 10-K, before deciding to purchase, hold or sell shares of our common stock. 
+
+Overview 
+
+Our Company and Our Businesses 
+
+NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. Starting with a focus on PC graphics, we extended our focus in recent years to the revolutionary field of AI. Fueled by the sustained demand for exceptional 3D graphics and the scale of the gaming market, NVIDIA leveraged its GPU architecture to create platforms for VR, HPC, and AI. 
+
+Our two reportable segments - GPU and Tegra Processor - are based on a single underlying graphics architecture. From our proprietary processors, we have created platforms that address four large markets where our expertise is critical: Gaming, Professional Visualization, Data Center, and Automotive. 
+
+Our GPU product brands are aimed at specialized markets including GeForce for gamers; Quadro for designers; Tesla and DGX for AI data scientists and big data researchers; and GRID for cloud-based visual computing users. Our Tegra brand incorporates GPUs and multi-core CPUs to drive supercomputing for autonomous robots, drones, and cars, as well as for game consoles and mobile gaming and entertainment devices. 
+
+Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. 
+
+Recent Developments, Future Objectives and Challenges 
+
+Fiscal Year 2020 Summary 
+
+##TABLE_START  
+
+Year Ended 
+
+ 
+
+January 26, 2020 
+
+ 
+
+January 27, 2019 
+
+ 
+
+Change 
+
+ 
+
+($ in millions, except per share data) 
+
+Revenue 
+
+$ 
+
+10,918 
+
+ 
+
+$ 
+
+11,716 
+
+ 
+
+Down 7% 
+
+Gross margin 
+
+62.0 
+
+% 
+
+ 
+
+61.2 
+
+% 
+
+ 
+
+Up 80 bps 
+
+Operating expenses 
+
+$ 
+
+3,922 
+
+ 
+
+$ 
+
+3,367 
+
+ 
+
+Up 16% 
+
+Income from operations 
+
+$ 
+
+2,846 
+
+ 
+
+$ 
+
+3,804 
+
+ 
+
+Down 25% 
+
+Net income 
+
+$ 
+
+2,796 
+
+ 
+
+$ 
+
+4,141 
+
+ 
+
+Down 32% 
+
+Net income per diluted share 
+
+$ 
+
+4.52 
+
+ 
+
+$ 
+
+6.63 
+
+ 
+
+Down 32% 
+
+##TABLE_END
+
+Revenue for fiscal year 2020 was $10.92 billion, down 7% from a year earlier. GPU business revenue was $9.47 billion, down 7% from a year earlier. Tegra Processor business revenue - which includes Automotive, SoCs for gaming platforms, and embedded edge AI platforms - was $1.45 billion, down 6% from a year earlier. 
+
+From a market platform perspective, Gaming revenue was $5.52 billion, down 12% from a year ago, reflecting lower sales of GeForce desktop GPUs and SoCs for gaming platforms, partially offset by growth in GeForce notebook GPUs. 
+
+Professional Visualization revenue was $1.21 billion, up 7% from a year ago, reflecting strength in desktop and notebook workstations. 
+
+Data Center revenue was $2.98 billion, up 2% from a year ago, driven by vertical industry growth partially offset by lower hyperscale sales. 
+
+Automotive revenue was $700 million, up 9% from a year ago, reflecting growth in AI cockpit solutions and development services agreements. 
+
+OEM and Other revenue was $505 million, down 34% from a year ago, primarily due to the absence of cryptocurrency-specific product sales. 
+
+Gross margin for fiscal year 2020 was 62.0%, up 80 basis points from a year ago, primarily driven by reduced inventory provisions and the sale of previously written-off components. 
+
+Operating expenses for fiscal year 2020 were $3.92 billion, up 16% from a year ago, reflecting primarily employee additions and increases in employee compensation and other related costs, including stock-based compensation and infrastructure costs. 
+
+Income from operations for fiscal year 2020 was $2.85 billion, down 25% from a year earlier. Net income and net income per diluted share for fiscal year 2020 were $2.80 billion and $4.52, respectively, both down 32% from a year earlier reflecting lower revenue and higher operating expenses. 
+
+On March 10, 2019, we entered into an Agreement and Plan of Merger, or the Merger Agreement, with Mellanox Technologies Ltd., or Mellanox, pursuant to which we will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion as of the date of the Merger Agreement. The Merger Agreement contains customary representations, warranties and covenants. The consummation of the merger is conditioned on the receipt of the approval of Mellanox shareholders, as well as the satisfaction of other customary closing conditions, including domestic and foreign regulatory approvals and performance in all material respects by each party of its obligations under the Merger Agreement. In June 2019, Mellanox shareholders approved the consummation of the merger and we received regulatory approvals for the deal from Mexico in July 2019 and from the European Commission in December 2019. In addition, the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, in connection with the proposed acquisition expired in May 2019. Discussions with China's regulatory agency, the State Administration for Market Regulation, are progressing and we believe the acquisition will likely close in the early part of calendar 2020. If the Merger Agreement is terminated under certain circumstances involving the failure to obtain the required regulatory approvals, we could be obligated to pay Mellanox a termination fee of $350 million . 
+
+In November 2018, we communicated our intent to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019. In fiscal year 2020, we returned $390 million in quarterly cash dividends. We did not repurchase any shares during fiscal year 2020. We intend to return to repurchasing shares after closing the acquisition of Mellanox. 
+
+Cash, cash equivalents and marketable securities were $10.90 billion as of January 26, 2020 , compared with $7.42 billion as of January 27, 2019 . The increase primarily reflects growth in operating cash flow. 
+
+In January 2020, a novel strain of coronavirus was identified in China, resulting in shutdowns of manufacturing and commerce, as well as global travel restrictions to contain the virus. The impact has extended to other regions. We have operations and employees in China, and the region represents an important end market for our products. Our customers and suppliers within China and neighboring countries are also affected by the coronavirus related restrictions and closures. The coronavirus is expected to have a negative effect on our financial results, though the full extent and duration is uncertain and could have a material negative impact on our business. 
+
+GPU Business 
+
+In Gaming, we extended NVIDIA's family of Turing-based GPUs with the GeForce GTX 1660 Ti, GTX 1660 and GTX 1650, as well as with our new SUPER line, including the GeForce RTX 2080 SUPER, RTX 2070 SUPER, RTX 2060 SUPER, GTX 1660 SUPER, and GTX 1650 SUPER; and accelerated momentum of ray-tracing games by supporting a growing list of titles; introduced new RTX Studio laptops powered by GeForce RTX and Quadro RTX GPUs for online and studio-based creatives and prosumer customers; unveiled two new models of the SHIELD TV streaming media player; and introduced two new service offerings for GeForce NOW cloud gaming service. 
+
+In Professional Visualization, we expanded adoption of NVIDIA RTX ray-tracing technology by 3D application providers; rolled out a full range of Turing-based Quadro GPUs for mobile workstations, incorporating ray tracing for product design, architecture, effects and scientific visualization; and unveiled the NVIDIA Omniverse open-collaboration platform to simplify creative workflows for content creation. 
+
+In Data Center, we introduced the NVIDIA CUDA-X AI platform for accelerating data science; announced availability of NVIDIA T4 Tensor Core GPUs from leading OEMs and cloud service providers; unveiled the DGX SuperPOD; and announced support for Arm CPUs, providing a new path to build AI-enabled exascale supercomputers, as well as a collaboration with Arm and others on a reference design for GPU accelerated Arm-based servers. We launched the NVIDIA EGX Intelligent Edge Computing Platform, bringing accelerated AI to vertical industries; and announced a collaboration to integrate Microsoft 
+
+Azure with EGX, as well as plans for a scalable GPU-accelerated supercomputer in the Microsoft Azure cloud. Additionally, we entered the 5G telecom market, enabling telcos to build efficient, virtualized 5G RANs; announced a collaboration to deliver software-defined 5G RAN; and announced that Alibaba and Baidu's recommendation engines run on NVIDIA AI. 
+
+Tegra Processor Business 
+
+In our Automotive platform, we announced a partnership with Toyota Research Institute-Advanced Development to develop, train and validate self-driving vehicles; unveiled the NVIDIA DRIVE AP2X automated driving solution, encompassing DRIVE AutoPilot software, DRIVE AGX and DRIVE validation tools; introduced the NVIDIA DRIVE AV Safety Force Field to enable safe, comfortable driving experiences; and announced availability of the NVIDIA DRIVE Constellation autonomous vehicle simulation platform. 
+
+Critical Accounting Policies and Estimates 
+
+Management's discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States, or U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue, cost of revenue, expenses and related disclosure of contingencies. On an on-going basis, we evaluate our estimates, including those related to inventories, revenue recognition, income taxes, and goodwill. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. 
+
+We believe the following critical accounting policies affect our significant judgments and estimates used in the preparation of our consolidated financial statements. Our management has discussed the development and selection of these critical accounting policies and estimates with the Audit Committee of our Board of Directors. The Audit Committee has reviewed our disclosures relating to our critical accounting policies and estimates in this Annual Report on Form 10-K. 
+
+Inventories 
+
+Inventory cost is computed on an adjusted standard basis, which approximates actual cost on an average or first-in, first-out basis. We charge cost of sales for inventory provisions to write down our inventory to the lower of cost or net realizable value or to completely write off obsolete or excess inventory. Most of our inventory provisions relate to the write-off of excess quantities of products or components, based on our inventory levels and future product purchase commitments compared to assumptions about future demand and m arket conditions. 
+
+Situations that may result in excess or obsolete inventory include changes in business and economic conditions, changes in market conditions, sudden and significant decreases in demand for our products, inventory obsolescence because of changing technology and customer requirements, failure to estimate customer demand properly, or unexpected competitive pricing actions by our competition. In addition, cancellation or deferral of customer purchase orders could result in our holding excess inventory. 
+
+The overall net effect on our gross margin from inventory provisions and sales of items previously written down was insignificant in fiscal year 2020 and an unfavorable impact of 2.0% in fiscal year 2019 . The charges we took to cost of sales for inventory provisions during fiscal year 2019 were primarily related to excess DRAM, other components, and prior architecture components and chips. As a fabless semiconductor company, we must make commitments to purchase inventory based on forecasts of future customer demand. In doing so, we must account for our third-party manufacturers' lead times and constraints. We also adjust to other market factors, such as product offerings and pricing actions by our competitors, new product transitions, and macroeconomic conditions - all of which may impact demand for our products. 
+
+Refer to the Gross Profit and Gross Margin discussion below in this Management's Discussion and Analysis for further discussion. 
+
+Revenue Recognition 
+
+We derive our revenue from product sales, including hardware and systems, license and development arrangements, and software licensing. We determine revenue recognition through the following steps: (1) identification of the contract with a customer; (2) identification of the performance obligations in the contract; (3) determination of the transaction price; (4) allocation of the transaction price to the performance obligations in the contract; and (5) recognition of revenue when, or as, we satisfy a performance obligation. 
+
+Product Sales Revenue 
+
+Revenue from product sales is recognized upon transfer of control of promised products to customers in an amount that reflects the consideration we expect to receive in exchange for those products. Revenue is recognized net of allowances for returns, customer programs and any taxes collected from customers. 
+
+For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for estimated product returns at the time revenue is recognized, based primarily on historical return rates. However, if product returns for a fiscal period are anticipated to exceed historical return rates, we may determine that additional sales return allowances are required to properly reflect our estimated exposure for product returns. 
+
+Our customer programs involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and marketing development funds, or MDFs, which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners' activities while also promoting NVIDIA products. We account for customer programs as a reduction to revenue and accrue for potential rebates and MDFs based on the amount we expect to be claimed by customers. 
+
+License and Development Arrangements 
+
+Our license and development arrangements with customers typically require significant customization of our intellectual property components. As a result, we recognize the revenue from the license and the revenue from the development services as a single performance obligation over the period in which the development services are performed. We measure progress to completion based on actual cost incurred to date as a percentage of the estimated total cost required to complete each project. If a loss on an arrangement becomes probable during a period, we record a provision for such loss in that period. 
+
+Refer to Note 1 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Income Taxes 
+
+We recognize federal, state and foreign current tax liabilities or assets based on our estimate of taxes payable or refundable in the current fiscal year by tax jurisdiction. We recognize federal, state and foreign deferred tax assets or liabilities, as appropriate, for our estimate of future tax effects attributable to temporary differences and carryforwards; and we record a valuation allowance to reduce any deferred tax assets by the amount of any tax benefits that, based on available evidence and judgment, are not expected to be realized. 
+
+Our calculation of deferred tax assets and liabilities is based on certain estimates and judgments and involves dealing with uncertainties in the application of complex tax laws. Our estimates of deferred tax assets and liabilities may change based, in part, on added certainty or finality to an anticipated outcome, changes in accounting standards or tax laws in the United States, or foreign jurisdictions where we operate, or changes in other facts or circumstances. In addition, we recognize liabilities for potential United States and foreign income tax contingencies based on our estimate of whether, and the extent to which, additional taxes may be due. If we determine that payment of these amounts is unnecessary or if the recorded tax liability is less than our current assessment, we may be required to recognize an income tax benefit or additional income tax expense in our financial statements accordingly. 
+
+As of January 26, 2020 , we had a valuation allowance of $621 million related to state and certain foreign deferred tax assets that management determined are not likely to be realized due to jurisdictional projections of future taxable income and potential utilization limitations of tax attributes acquired as a result of stock ownership changes. To the extent realization of the deferred tax assets becomes more-likely-than-not, we would recognize such deferred tax asset as an income tax benefit during the period. 
+
+We recognize the benefit from a tax position only if it is more-likely-than-not that the position would be sustained upon audit based solely on the technical merits of the tax position. Our policy is to include interest and penalties related to unrecognized tax benefits as a component of income tax expense. 
+
+Refer to Note 14 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Goodwill 
+
+Goodwill is subject to our annual impairment test during the fourth quarter of our fiscal year, or earlier, if indicators of potential impairment exist, using either a qualitative or a quantitative assessment. Our impairment review process compares the fair value of the reporting unit in which the goodwill resides to its carrying value. We have identified two reporting units, 
+
+GPU and Tegra Processor, for the purposes of completing our goodwill analysis. Goodwill assigned to the GPU and Tegra Processor reporting units as of January 26, 2020 was $210 million and $408 million , respectively. Determining the fair value of a reporting unit requires us to make judgments and involves the use of significant estimates and assumptions. We also make judgments and assumptions in allocating assets and liabilities to each of our reporting units. We base our fair value estimates on assumptions we believe to be reasonable but that are unpredictable and inherently uncertain. 
+
+We performed our annual goodwill assessment during the fourth quarter of fiscal year 2020 using a qualitative assessment and concluded there was no goodwill impairment. 
+
+Refer to Note 6 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Results of Operations 
+
+A discussion regarding our financial condition and results of operations for fiscal year 2020 compared to fiscal year 2019 is presented below. A discussion regarding our financial condition and results of operations for fiscal year 2019 compared to fiscal year 2018 can be found under Item 7 in our Annual Report on Form 10-K for the fiscal year ended January 27, 2019, filed with the SEC on February 21, 2019, which is available free of charge on the SEC's website at http://www.sec.gov and at our investor relations website, http://investor.nvidia.com. 
+
+The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue. 
+
+##TABLE_START  
+
+Year Ended 
+
+ 
+
+January 26, 2020 
+
+ 
+
+January 27, 2019 
+
+Revenue 
+
+100.0 
+
+% 
+
+ 
+
+100.0 
+
+% 
+
+Cost of revenue 
+
+38.0 
+
+ 
+
+38.8 
+
+Gross profit 
+
+62.0 
+
+ 
+
+61.2 
+
+Operating expenses: 
+
+ 
+
+ 
+
+ 
+
+Research and development 
+
+25.9 
+
+ 
+
+20.3 
+
+Sales, general and administrative 
+
+10.0 
+
+ 
+
+8.5 
+
+Total operating expenses 
+
+35.9 
+
+ 
+
+28.7 
+
+Income from operations 
+
+26.1 
+
+ 
+
+32.5 
+
+Interest income 
+
+1.6 
+
+ 
+
+1.2 
+
+Interest expense 
+
+(0.5 
+
+) 
+
+ 
+
+(0.5 
+
+) 
+
+Other, net 
+
+ 
+
+ 
+
+0.1 
+
+Total other income 
+
+1.1 
+
+ 
+
+0.8 
+
+Income before income tax expense 
+
+27.2 
+
+ 
+
+33.3 
+
+Income tax expense (benefit) 
+
+1.6 
+
+ 
+
+(2.1 
+
+) 
+
+Net income 
+
+25.6 
+
+% 
+
+ 
+
+35.3 
+
+% 
+
+##TABLE_END
+
+Revenue 
+
+Revenue by Reportable Segments 
+
+##TABLE_START  
+
+Year Ended 
+
+ 
+
+January 26, 2020 
+
+ 
+
+January 27, 2019 
+
+ 
+
+$ 
+
+Change 
+
+ 
+
+% 
+
+Change 
+
+ 
+
+($ in millions) 
+
+GPU 
+
+$ 
+
+9,465 
+
+ 
+
+$ 
+
+10,175 
+
+ 
+
+$ 
+
+(710 
+
+) 
+
+ 
+
+(7 
+
+)% 
+
+Tegra Processor 
+
+1,453 
+
+ 
+
+1,541 
+
+ 
+
+(88 
+
+) 
+
+ 
+
+(6 
+
+)% 
+
+Total 
+
+$ 
+
+10,918 
+
+ 
+
+$ 
+
+11,716 
+
+ 
+
+$ 
+
+(798 
+
+) 
+
+ 
+
+(7 
+
+)% 
+
+##TABLE_END
+
+GPU Business. GPU business revenue decreased by 7% in fiscal year 2020 compared to fiscal year 2019 , which reflects a decline in GPUs sold for gaming. GeForce GPU product sales for gaming decreased by 10%, reflecting lower sales of GeForce 
+
+desktop GPUs and SoCs for gaming platforms, partially offset by growth in GeForce notebook GPUs. Revenue from Quadro GPUs for professional visualization increased by 7%, reflecting strength in desktop and notebook workstations. Data Center revenue, which includes Tesla, GRID and DGX, increased by 2%, driven by vertical industry growth partially offset by lower hyperscale sales. 
+
+Tegra Processor Business.  Tegra Processor business revenue decreased by 6% in fiscal year 2020 compared to fiscal year 2019 . This was driven by a decline in revenue from SoCs for gaming platforms, which was partially offset by an increase of 9% in Automotive revenue, reflecting growth in AI cockpit solutions and development services agreements. 
+
+Concentration of Revenue 
+
+Revenue from sales to customers outside of the United States accounted for 92% and 87% of total revenue for fiscal years 2020 and 2019 , respectively . Revenue by geographic region is allocated to individual countries based on the location to which the products are initially billed even if the revenue is attributable to end customers in a different location. 
+
+Dell represented approximately 11% of our total revenue for fiscal year 2020 and was attributable to the GPU business. No customer represented 10% or more of total revenue for fiscal year 2019 . 
+
+Gross Profit and Gross Margin 
+
+Gross profit consists of total revenue, net of allowances, less cost of revenue. Cost of revenue consists primarily of the cost of semiconductors purchased from subcontractors, including wafer fabrication, assembly, testing and packaging, board and device costs, manufacturing support costs, including labor and overhead associated with such purchases, final test yield fallout, inventory and warranty provisions, memory and component costs, and shipping costs. Cost of revenue also includes development costs for license and service arrangements and stock-based compensation related to personnel associated with manufacturing. 
+
+Our overall gross margin was 62.0% and 61.2% for fiscal years 2020 and 2019 , respectively. The increase in fiscal year 2020 was driven by reduced inventory provisions and the sale of previously written-off components. 
+
+Inventory provisions totaled $161 million and $270 million for fiscal years 2020 and 2019, respectively. Sales of inventory that was previously written-off or written-down totaled $145 million and $41 million for fiscal years 2020 and 2019, respectively. As a result, the overall net effect on our gross margin was insignificant in fiscal year 2020 and an unfavorable impact of 2.0% in fiscal year 2019. 
+
+A discussion of our gross margin results for each of our reportable segments is as follows: 
+
+GPU Business. The gross margin of our GPU business increased during fiscal year 2020 when compared to fiscal year 2019, primarily driven by reduced inventory provisions and the sale of previously written-off components. 
+
+Tegra Processor Business. The gross margin of our Tegra Processor business was relatively flat during fiscal year 2020 when compared to fiscal year 2019. 
+
+Operating Expenses 
+
+##TABLE_START  
+
+Year Ended 
+
+ 
+
+January 26, 2020 
+
+ 
+
+January 27, 2019 
+
+ 
+
+$ 
+
+Change 
+
+ 
+
+% 
+
+Change 
+
+ 
+
+($ in millions) 
+
+Research and development expenses 
+
+$ 
+
+2,829 
+
+ 
+
+$ 
+
+2,376 
+
+ 
+
+$ 
+
+ 
+
+% 
+
+% of net revenue 
+
+25.9 
+
+% 
+
+ 
+
+20.3 
+
+% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sales, general and administrative expenses 
+
+1,093 
+
+ 
+
+ 
+
+ 
+
+% 
+
+% of net revenue 
+
+10.0 
+
+% 
+
+ 
+
+8.5 
+
+% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total operating expenses 
+
+$ 
+
+3,922 
+
+ 
+
+$ 
+
+3,367 
+
+ 
+
+$ 
+
+ 
+
+% 
+
+##TABLE_END
+
+Research and Development 
+
+Research and development expenses increased by 19% in fiscal year 2020 compared to fiscal year 2019 , driven primarily by employee additions and increases in employee compensation and other related costs, including infrastructure costs and stock-based compensation expense. 
+
+Sales, General and Administrative 
+
+Sales, general and administrative expenses increased by 10% in fiscal year 2020 compared to fiscal year 2019 , driven primarily by employee additions and increases in employee compensation and other related costs, including infrastructure costs and stock-based compensation expense. 
+
+Total Other Income, Net 
+
+Interest Income and Interest Expense 
+
+Interest income consists of interest earned on cash, cash equivalents and marketable securities. Interest income was $178 million and $ 136 million in fiscal years 2020 and 2019 , respectively. The increase in interest income was primarily due to higher average invested balances. 
+
+Interest expense is primarily comprised of coupon interest and debt discount amortization related to the 2.20% Notes Due 2021 and 3.20% Notes Due 2026 issued in September 2016. Interest expense was $52 million and $58 million in fiscal years 2020 and 2019 , respectively. 
+
+Other, Net 
+
+Other, net, consists primarily of realized or unrealized gains and losses from non-affiliated investments and the impact of changes in foreign currency rates. Other, net, was not significant during fiscal year 2020 and was $14 million of income during fiscal year 2019, consisting primarily of $12 million unrealized gains from non-affiliated investments. 
+
+Income Taxes 
+
+We recognized income tax expense of $174 million for fiscal year 2020 and income tax benefit of $245 million for fiscal year 2019. Our annual effective tax rate was 5.9% and (6.3)% for fiscal years 2020 and 2019, respectively. The increase in our effective tax rate in fiscal year 2020 as compared to fiscal year 2019 was primarily due to a decrease of tax benefits from stock-based compensation and an absence of tax benefits related to the enactment of the TCJA. 
+
+Our effective tax rate for fiscal years 2020 and 2019 was lower than the U.S. federal statutory rate of 21% due primarily to income earned in jurisdictions, including the British Virgin Islands and Hong Kong, where the tax rate was lower than the U.S. federal statutory tax rates, favorable recognition of U.S. federal research tax credits, excess tax benefits related to stock-based compensation, and the finalization of the enactment-date income tax effects of the TCJA in 2019. 
+
+Refer to Note 14 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Liquidity and Capital Resources 
+
+##TABLE_START  
+
+January 26, 2020 
+
+ 
+
+January 27, 2019 
+
+ 
+
+(In millions) 
+
+Cash and cash equivalents 
+
+$ 
+
+10,896 
+
+ 
+
+$ 
+
+Marketable securities 
+
+ 
+
+6,640 
+
+Cash, cash equivalents, and marketable securities 
+
+$ 
+
+10,897 
+
+ 
+
+$ 
+
+7,422 
+
+##TABLE_END
+
+##TABLE_START  
+
+Year Ended 
+
+ 
+
+January 26, 2020 
+
+ 
+
+January 27, 2019 
+
+ 
+
+(In millions) 
+
+Net cash provided by operating activities 
+
+$ 
+
+4,761 
+
+ 
+
+$ 
+
+3,743 
+
+Net cash provided by (used in) investing activities 
+
+$ 
+
+6,145 
+
+ 
+
+$ 
+
+(4,097 
+
+) 
+
+Net cash used in financing activities 
+
+$ 
+
+(792 
+
+) 
+
+ 
+
+$ 
+
+(2,866 
+
+) 
+
+##TABLE_END
+
+As of January 26, 2020 , we had $10.90 billion in cash, cash equivalents and marketable securities, an increase of $3.48 billion from the end of fiscal year 2019 . Our investment policy requires the purchase of highly rated fixed income securities, the diversification of investment types and credit exposures, and certain limits on our portfolio duration. 
+
+Cash provided by operating activities increased in fiscal year 2020 compared to fiscal year 2019, primarily due to changes in working capital driven by a reduction in inventory, partially offset by a decrease in operating income. 
+
+Cash used in investing activities decreased in fiscal year 2020 compared to fiscal year 2019, primarily due to lower purchases, higher sales, and lower maturities of marketable securities in preparation for the acquisition of Mellanox. 
+
+Cash used in financing activities decreased in fiscal year 2020 compared to fiscal year 2019, primarily due to no share repurchases in fiscal year 2020 and lower tax payments related to employee stock plans. 
+
+Liquidity 
+
+Our primary sources of liquidity are our cash and cash equivalents, our marketable securities, and the cash generated by our operations. As of January 26, 2020 , we had $ 10.90 billion in cash, cash equivalents and marketable securities. We believe that we have sufficient liquidity to meet our operating requirements for at least the next twelve months, including our proposed acquisition of Mellanox. Refer to Note 2 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Our marketable securities consist of debt securities issued by the United States government and its agencies, highly rated corporations and financial institutions, asset-backed issuers, and foreign government entities. These marketable securities are denominated in United States dollars. Refer to Note 8 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+During fiscal year 2021, we expect our capital investment to be approximately $700 million to $900 million to fund property and equipment including construction of a new building at our Santa Clara campus. 
+
+As a result of the TCJA, substantially all of our cash, cash equivalents and marketable securities held outside of the United States as of January 26, 2020 are available for use in the United States without incurring additional U.S. federal income taxes. Refer to Note 14 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information. 
+
+Capital Return to Shareholders 
+
+In November 2018, we communicated our intent to return $3.00 billion to shareholders by the end of fiscal year 2020, including $700 million in share repurchases made during the fourth quarter of fiscal year 2019. In fiscal year 2020, we returned $390 million in quarterly cash dividends. We did not repurchase any shares during fiscal year 2020. We intend to return to repurchasing shares after closing the acquisition of Mellanox. As of January 26, 2020, we are authorized, subject to certain specifications, to repurchase shares of our common stock up to $7.24 billion through December 2022. 
+
+Our cash dividend program and the payment of future cash dividends under that program are subject to our Board's continuing determination that the dividend program and the declaration of dividends thereunder are in the best interests of our shareholders. Refer to Note 15 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further discussion. 
+
+Outstanding Indebtedness and Credit Facilities 
+
+We have outstanding $1.00 billion of Notes due 2021 and $1.00 billion of Notes due 2026, collectively, the Notes. 
+
+We have a Credit Agreement under which we may borrow up to $575 million for general corporate purposes and can obtain revolving loan commitments up to $425 million. As of January 26, 2020 , we had not borrowed any amounts under this agreement. 
+
+We have a $575 million commercial paper program to support general corporate purposes. As of January 26, 2020 , we had not issued any commercial paper. 
+
+Refer to Note 12 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for further discussion. 
+
+Off-Balance Sheet Arrangements 
+
+As of January 26, 2020, we had no material off-balance sheet arrangements as defined by applicable SEC regulations. 
+
+Contractual Obligations 
+
+The following table summarizes our contractual obligations as of January 26, 2020 : 
+
+##TABLE_START  
+
+Payment Due By Period 
+
+Contractual Obligations 
+
+Total 
+
+ 
+
+Less than 
+
+1 Year 
+
+ 
+
+1-3 Years 
+
+ 
+
+4-5 Years 
+
+ 
+
+More than 
+
+5 Years 
+
+ 
+
+(In millions) 
+
+Long-term debt (1) 
+
+$ 
+
+2,248 
+
+ 
+
+$ 
+
+ 
+
+$ 
+
+1,078 
+
+ 
+
+$ 
+
+ 
+
+$ 
+
+1,052 
+
+Inventory purchase obligations 
+
+1,156 
+
+ 
+
+1,156 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Transition tax payable (2) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Operating leases (3) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Capital purchase obligations 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total contractual obligations 
+
+$ 
+
+4,714 
+
+ 
+
+$ 
+
+1,550 
+
+ 
+
+$ 
+
+1,364 
+
+ 
+
+$ 
+
+ 
+
+$ 
+
+1,449 
+
+##TABLE_END
+
+##TABLE_START (1) 
+
+Represents the aggregate principal amount of $2.00 billion and anticipated interest payments of $248 million for the Notes. Refer to Note 12 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K. 
+
+##TABLE_END##TABLE_START (2) 
+
+Represents our remaining tax payable of the one-time transition tax that resulted from enactment of the TCJA in fiscal year 2018. As of January 26, 2020, we have paid the first two installments totaling $67 million. The remaining will be payable in six annual installments. The next installment of $33 million is classified as a current income tax payable. The installment amounts are equal to 8% of the total liability, payable in fiscal years 2019 through 2023, 15% in fiscal year 2024, 20% in fiscal year 2025 and 25% in fiscal year 2026. Refer to Note 14 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K. 
+
+##TABLE_END##TABLE_START (3) 
+
+For further information, refer to Note 3 of the Notes to Consolidated Financial Statements included in Part IV, Item 15 of this Annual Report on Form 10-K. 
+
+##TABLE_END Excluded from the table above are unrecognized tax benefits of $211 million which consists of $180 million and the related interest and penalties of $31 million recorded in non-current income tax payable as of January 26, 2020. We are unable to reasonably estimate the timing of any potential tax liability or interest/penalty payments in individual years due to uncertainties in the underlying income tax positions and the timing of the effective settlement of such tax positions. Refer to Note 14 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K. 
+
+Adoption of New and Recently Issued Accounting Pronouncements 
+
+Refer to Note 1 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for a discussion of adoption of new and recently issued accounting pronouncements. 
+

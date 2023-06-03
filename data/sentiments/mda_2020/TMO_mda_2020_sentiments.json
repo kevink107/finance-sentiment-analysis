@@ -1,0 +1,11 @@
+{
+    "TMO_mda_2020": {
+        "running_score_positive": 39.09545964002609,
+        "running_score_neutral": 6.128858422860503,
+        "running_score_negative": 1.7756817247718573,
+        "chunks": 47,
+        "avg_positive": 0.8318182902133211,
+        "avg_neutral": 0.13040124303958517,
+        "avg_negative": 0.037780462229188454
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "META_risks_2020": {
+        "running_score_positive": 108.89427730441093,
+        "running_score_neutral": 29.672801714390516,
+        "running_score_negative": 4.43292071390897,
+        "chunks": 143,
+        "avg_positive": 0.7614984426881883,
+        "avg_neutral": 0.20750210989084278,
+        "avg_negative": 0.030999445551810983
+    }
+}

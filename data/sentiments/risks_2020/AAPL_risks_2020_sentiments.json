@@ -1,0 +1,11 @@
+{
+    "AAPL_risks_2020": {
+        "running_score_positive": 48.02762496471405,
+        "running_score_neutral": 11.420772064477205,
+        "running_score_negative": 1.5516033908352256,
+        "chunks": 61,
+        "avg_positive": 0.7873381141756401,
+        "avg_neutral": 0.18722577154880665,
+        "avg_negative": 0.025436121161233206
+    }
+}

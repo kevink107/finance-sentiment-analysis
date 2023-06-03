@@ -1,0 +1,11 @@
+{
+    "MRK_risks_2020": {
+        "running_score_positive": 49.82157361507416,
+        "running_score_neutral": 11.130583088845015,
+        "running_score_negative": 2.047843017615378,
+        "chunks": 63,
+        "avg_positive": 0.7908186288107009,
+        "avg_neutral": 0.17667592204515897,
+        "avg_negative": 0.03250544472405362
+    }
+}

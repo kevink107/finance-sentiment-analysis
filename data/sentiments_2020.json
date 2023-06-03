@@ -1,0 +1,551 @@
+{
+    "AAPL": {
+        "2020": {
+            "mda": {
+                "running_score_positive": 28.212962299585342,
+                "running_score_neutral": 3.4361288845539093,
+                "running_score_negative": 1.3509092321619391,
+                "chunks": 33,
+                "avg_positive": 0.8549382515025862,
+                "avg_neutral": 0.10412511771375482,
+                "avg_negative": 0.04093664339884664
+            },
+            "risks": {
+                "running_score_positive": 48.02762496471405,
+                "running_score_neutral": 11.420772064477205,
+                "running_score_negative": 1.5516033908352256,
+                "chunks": 61,
+                "avg_positive": 0.7873381141756401,
+                "avg_neutral": 0.18722577154880665,
+                "avg_negative": 0.025436121161233206
+            },
+            "stock_return": 
+        }
+    },
+    "BRK" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 116.53620710968971,
+                "running_score_neutral": 17.6039720736444,
+                "running_score_negative": 4.859821259044111,
+                "chunks": 139,
+                "avg_positive": 0.8383899792064008,
+                "avg_neutral": 0.1266472811053554,
+                "avg_negative": 0.03496274287082094
+            },
+            "risks": {
+                "running_score_positive": 13.192756354808807,
+                "running_score_neutral": 4.2001200169324875,
+                "running_score_negative": 0.6071236617863178,
+                "chunks": 18,
+                "avg_positive": 0.7329309086004893,
+                "avg_neutral": 0.23334000094069374,
+                "avg_negative": 0.0337290923214621
+            },
+            "stock_return":
+        }
+    },
+    "ABT" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 75.9348333477974,
+                "running_score_neutral": 14.057136479765177,
+                "running_score_negative": 3.008030810393393,
+                "chunks": 93,
+                "avg_positive": 0.8165035843849182,
+                "avg_neutral": 0.15115200515876534,
+                "avg_negative": 0.03234441731605799
+            },
+            "risks": {
+                "running_score_positive": 20.307507932186127,
+                "running_score_neutral": 6.169692035764456,
+                "running_score_negative": 0.522800300270319,
+                "chunks": 27,
+                "avg_positive": 0.752129923414301,
+                "avg_neutral": 0.22850711243572058,
+                "avg_negative": 0.01936297408408589
+            },
+            "stock_return": 
+
+        }
+    },
+    "AMZN" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 39.79057663679123,
+                "running_score_neutral": 9.020373374223709,
+                "running_score_negative": 3.189050504937768,
+                "chunks": 52,
+                "avg_positive": 0.7652033968613698,
+                "avg_neutral": 0.17346871873507133,
+                "avg_negative": 0.06132789432572631
+            },
+            "risks": {
+                "running_score_positive": 40.9586198925972,
+                "running_score_neutral": 9.807151610031724,
+                "running_score_negative": 1.234228029847145,
+                "chunks": 52,
+                "avg_positive": 0.7876657671653308,
+                "avg_neutral": 0.188599069423687,
+                "avg_negative": 0.023735154420137405
+            },
+            "stock_return": 
+        }
+    },
+    "ABBV" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 56.79503935575485,
+                "running_score_neutral": 10.00026430748403,
+                "running_score_negative": 2.204696714412421,
+                "chunks": 69,
+                "avg_positive": 0.8231165124022443,
+                "avg_neutral": 0.14493136677513088,
+                "avg_negative": 0.03195212629583219
+            },
+            "risks": {
+                "running_score_positive": 40.96575924754143,
+                "running_score_neutral": 9.89884265884757,
+                "running_score_negative": 1.1353980395942926,
+                "chunks": 52,
+                "avg_positive": 0.7878030624527198,
+                "avg_neutral": 0.19036235882399175,
+                "avg_negative": 0.021834577684505627
+            },
+            "stock_return": 
+        }
+    },
+    "AVGO" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 64.74077996611595,
+                "running_score_neutral": 11.54963855072856,
+                "running_score_negative": 3.7095824060961604,
+                "chunks": 80,
+                "avg_positive": 0.8092597495764494,
+                "avg_neutral": 0.144370481884107,
+                "avg_negative": 0.046369780076202
+            },
+            "risks": {
+                "running_score_positive": 83.16020008921623,
+                "running_score_neutral": 17.103320095688105,
+                "running_score_negative": 2.73648002371192,
+                "chunks": 103,
+                "avg_positive": 0.8073805833904488,
+                "avg_neutral": 0.1660516514144476,
+                "avg_negative": 0.026567767220504076
+            },
+            "stock_return": 
+        }
+    },
+    "COST" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 27.118038713932037,
+                "running_score_neutral": 5.264746073633432,
+                "running_score_negative": 1.6172152357175946,
+                "chunks": 34,
+                "avg_positive": 0.7975893739391776,
+                "avg_neutral": 0.1548454727539245,
+                "avg_negative": 0.04756515399169396
+            },
+            "risks": {
+                "running_score_positive": 32.99595633149147,
+                "running_score_neutral": 8.775290736928582,
+                "running_score_negative": 1.2287526419386268,
+                "chunks": 43,
+                "avg_positive": 0.7673478216625923,
+                "avg_neutral": 0.20407652876578097,
+                "avg_negative": 0.02857564283578202
+            },
+            "stock_return": 
+        }
+    },
+    "GOOG" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 51.5793319940567,
+                "running_score_neutral": 9.95362695865333,
+                "running_score_negative": 2.467040711082518,
+                "chunks": 64,
+                "avg_positive": 0.805927062407136,
+                "avg_neutral": 0.1555254212289583,
+                "avg_negative": 0.038547511110664345
+            },
+            "risks": {
+                "running_score_positive": 55.53111031651497,
+                "running_score_neutral": 14.67312403768301,
+                "running_score_negative": 1.7957655470818281,
+                "chunks": 72,
+                "avg_positive": 0.7712654210627079,
+                "avg_neutral": 0.20379338941226402,
+                "avg_negative": 0.02494118815391428
+            },
+            "stock_return": 
+        }
+    },
+    "MRK" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 121.37775903940201,
+                "running_score_neutral": 19.54660635255277,
+                "running_score_negative": 4.07563416659832,
+                "chunks": 145,
+                "avg_positive": 0.8370879933751862,
+                "avg_neutral": 0.13480418174174325,
+                "avg_negative": 0.028107821838609104
+            },
+            "risks": {
+                "running_score_positive": 49.82157361507416,
+                "running_score_neutral": 11.130583088845015,
+                "running_score_negative": 2.047843017615378,
+                "chunks": 63,
+                "avg_positive": 0.7908186288107009,
+                "avg_neutral": 0.17667592204515897,
+                "avg_negative": 0.03250544472405362
+            },
+            "stock_return":
+        }
+    },
+    "MSFT" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 60.71636343002319,
+                "running_score_neutral": 8.04647110402584,
+                "running_score_negative": 2.2371654603630304,
+                "chunks": 71,
+                "avg_positive": 0.8551600483101858,
+                "avg_neutral": 0.11333057892994142,
+                "avg_negative": 0.03150937268116944
+            },
+            "risks": {
+                "running_score_positive": 49.20295625925064,
+                "running_score_neutral": 13.317017948254943,
+                "running_score_negative": 2.4800265710800886,
+                "chunks": 65,
+                "avg_positive": 0.7569685578346252,
+                "avg_neutral": 0.2048771992039222,
+                "avg_negative": 0.03815425493969367
+            },
+            "stock_return": 
+        }
+    },
+    "KO" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 135.40118926763535,
+                "running_score_neutral": 22.793633682653308,
+                "running_score_negative": 5.805177408270538,
+                "chunks": 164,
+                "avg_positive": 0.8256170077294838,
+                "avg_neutral": 0.1389855712356909,
+                "avg_negative": 0.035397423221161815
+            },
+            "risks": {
+                "running_score_positive": 60.78423619270325,
+                "running_score_neutral": 12.33886694163084,
+                "running_score_negative": 2.876896109431982,
+                "chunks": 76,
+                "avg_positive": 0.7997925814829374,
+                "avg_neutral": 0.16235351238987947,
+                "avg_negative": 0.0378538961767366
+            },
+            "stock_return": 
+        }
+    },
+    "META" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 52.28695410490036,
+                "running_score_neutral": 10.440999889746308,
+                "running_score_negative": 3.272046582773328,
+                "chunks": 66,
+                "avg_positive": 0.7922265773469751,
+                "avg_neutral": 0.15819696802645922,
+                "avg_negative": 0.04957646337535345
+            },
+            "risks": {
+                "running_score_positive": 108.89427730441093,
+                "running_score_neutral": 29.672801714390516,
+                "running_score_negative": 4.43292071390897,
+                "chunks": 143,
+                "avg_positive": 0.7614984426881883,
+                "avg_neutral": 0.20750210989084278,
+                "avg_negative": 0.030999445551810983
+            },
+            "stock_return": 
+        }
+    },
+    "HD" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 27.08486568927765,
+                "running_score_neutral": 3.825297998264432,
+                "running_score_negative": 1.089836485683918,
+                "chunks": 32,
+                "avg_positive": 0.8464020527899265,
+                "avg_neutral": 0.1195405624457635,
+                "avg_negative": 0.03405739017762244
+            },
+            "risks": {
+                "running_score_positive": 36.342839419841766,
+                "running_score_neutral": 7.963693216443062,
+                "running_score_negative": 1.6934671746566892,
+                "chunks": 46,
+                "avg_positive": 0.7900617265182993,
+                "avg_neutral": 0.17312376557484918,
+                "avg_negative": 0.03681450379688455
+            },
+            "stock_return": 
+        }
+    },
+    "JNJ" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 56.86430740356445,
+                "running_score_neutral": 10.253982104361057,
+                "running_score_negative": 2.8817108059301972,
+                "chunks": 70,
+                "avg_positive": 0.8123472486223493,
+                "avg_neutral": 0.1464854586337294,
+                "avg_negative": 0.04116729722757425
+            },
+            "risks": {
+                "running_score_positive": 21.554546684026718,
+                "running_score_neutral": 5.643098756670952,
+                "running_score_negative": 0.8023547995835543,
+                "chunks": 28,
+                "avg_positive": 0.76980523871524,
+                "avg_neutral": 0.20153924130967685,
+                "avg_negative": 0.02865552855655551
+            },
+            "stock_return": 
+        }
+    },
+    "LLY" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 68.03411629796028,
+                "running_score_neutral": 11.300626093521714,
+                "running_score_negative": 3.6652577752247453,
+                "chunks": 83,
+                "avg_positive": 0.8196881481681961,
+                "avg_neutral": 0.13615212160869536,
+                "avg_negative": 0.044159732231623436      
+            },
+            "risks": {
+                "running_score_positive": 20.794197022914886,
+                "running_score_neutral": 5.4585869293659925,
+                "running_score_negative": 0.7472157804295421,
+                "chunks": 27,
+                "avg_positive": 0.770155445293144,
+                "avg_neutral": 0.20216988627281454,
+                "avg_negative": 0.027674658534427483
+            },
+            "stock_return": 
+        }
+    },
+    "NVDA" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 30.035927772521973,
+                "running_score_neutral": 4.739515285938978,
+                "running_score_negative": 1.2245569378137589,
+                "chunks": 36,
+                "avg_positive": 0.8343313270144992,
+                "avg_neutral": 0.13165320238719383,
+                "avg_negative": 0.03401547049482664
+            },
+            "risks": {
+                "running_score_positive": 39.87756723165512,
+                "running_score_neutral": 8.05987873673439,
+                "running_score_negative": 1.0625546257942915,
+                "chunks": 49,
+                "avg_positive": 0.8138279026868392,
+                "avg_neutral": 0.1644873211578447,
+                "avg_negative": 0.021684788281516154
+            },
+            "stock_return": 
+        }
+    },
+    "TSLA" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 73.66403070092201,
+                "running_score_neutral": 10.284472888335586,
+                "running_score_negative": 3.051496564876288,
+                "chunks": 87,
+                "avg_positive": 0.846712996562322,
+                "avg_neutral": 0.11821233204983432,
+                "avg_negative": 0.03507467315949757
+            },
+            "risks": {
+                "running_score_positive": 74.07841384410858,
+                "running_score_neutral": 16.366984581574798,
+                "running_score_negative": 3.5546020520851016,
+                "chunks": 94,
+                "avg_positive": 0.7880682323841338,
+                "avg_neutral": 0.17411685725079573,
+                "avg_negative": 0.03781491544771385             
+            },
+            "stock_return":
+        }
+    },
+    "PG" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 100.53095129132271,
+                "running_score_neutral": 15.249402800574899,
+                "running_score_negative": 4.2196464776061475,
+                "chunks": 120,
+                "avg_positive": 0.8377579274276893,
+                "avg_neutral": 0.12707835667145748,
+                "avg_negative": 0.0351637206467179
+            },
+            "risks": {
+                "running_score_positive": 24.668550312519073,
+                "running_score_neutral": 5.124981887638569,
+                "running_score_negative": 1.2064680317416787,
+                "chunks": 31,
+                "avg_positive": 0.7957596875006153,
+                "avg_neutral": 0.1653219963754377,
+                "avg_negative": 0.03891832360457028
+            },
+            "stock_return": 
+        }
+    },
+    "PFE" : {
+        "2020": {
+            "mda": {              
+            },
+            "risks": {
+                "running_score_positive": 72.84705516695976,
+                "running_score_neutral": 21.178881576284766,
+                "running_score_negative": 3.9740631515160203,
+                "chunks": 98,
+                "avg_positive": 0.7433372976220384,
+                "avg_neutral": 0.2161110364927017,
+                "avg_negative": 0.040551664811387965
+            },
+            "stock_return": 
+        }
+    },
+    "V" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 53.26240122318268,
+                "running_score_neutral": 7.039978792890906,
+                "running_score_negative": 1.697619725484401,
+                "chunks": 62,
+                "avg_positive": 0.8590709874706883,
+                "avg_neutral": 0.11354804504662752,
+                "avg_negative": 0.027380963314264532              
+            },
+            "risks": {
+                "running_score_positive": 52.71192815899849,
+                "running_score_neutral": 12.586921637877822,
+                "running_score_negative": 2.701151069253683,
+                "chunks": 68,
+                "avg_positive": 0.775175414102919,
+                "avg_neutral": 0.18510178879232092,
+                "avg_negative": 0.039722809841965925             
+            },
+            "stock_return": 
+        }
+    },
+    "PEP" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 238.2530037164688,
+                "running_score_neutral": 30.030724259093404,
+                "running_score_negative": 8.716272498946637,
+                "chunks": 277,
+                "avg_positive": 0.8601191469908621,
+                "avg_neutral": 0.1084141670003372,
+                "avg_negative": 0.03146668772182901
+            },
+            "risks": {
+                "running_score_positive": 76.5555768609047,
+                "running_score_neutral": 19.87774184718728,
+                "running_score_negative": 2.5666815117001534,
+                "chunks": 99,
+                "avg_positive": 0.7732886551606535,
+                "avg_neutral": 0.2007852711837099,
+                "avg_negative": 0.025926075875759125
+            },
+            "stock_return": 
+
+        }
+    },
+    "UNH" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 35.00752291083336,
+                "running_score_neutral": 6.231471693143249,
+                "running_score_negative": 1.7610059650614858,
+                "chunks": 43,
+                "avg_positive": 0.8141284397868223,
+                "avg_neutral": 0.14491794635216856,
+                "avg_negative": 0.04095362709445316
+            },
+            "risks": {
+                "running_score_positive": 47.98082518577576,
+                "running_score_neutral": 12.103486131876707,
+                "running_score_negative": 1.9156879223883152,
+                "chunks": 62,
+                "avg_positive": 0.7738842771899316,
+                "avg_neutral": 0.19521751825607592,
+                "avg_negative": 0.03089819229658573            
+            },
+            "stock_return": 
+        }
+    },
+    "TMO" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 39.09545964002609,
+                "running_score_neutral": 6.128858422860503,
+                "running_score_negative": 1.7756817247718573,
+                "chunks": 47,
+                "avg_positive": 0.8318182902133211,
+                "avg_neutral": 0.13040124303958517,
+                "avg_negative": 0.037780462229188454
+            },
+            "risks": {
+                "running_score_positive": 31.760251492261887,
+                "running_score_neutral": 8.238130036741495,
+                "running_score_negative": 1.001618486829102,
+                "chunks": 41,
+                "avg_positive": 0.7746402802990704,
+                "avg_neutral": 0.20093000089613403,
+                "avg_negative": 0.024429719190953707
+                
+            },
+            "stock_return": 
+        }
+    },
+    "WMT" : {
+        "2020": {
+            "mda": {
+                "running_score_positive": 64.86014550924301,
+                "running_score_neutral": 7.642016163095832,
+                "running_score_negative": 2.4978384962305427,
+                "chunks": 75,
+                "avg_positive": 0.8648019401232402,
+                "avg_neutral": 0.10189354884127776,
+                "avg_negative": 0.033304513283073905              
+            },
+            "risks": {
+                "running_score_positive": 43.755843698978424,
+                "running_score_neutral": 10.585978757590055,
+                "running_score_negative": 1.6581773776561022,
+                "chunks": 56,
+                "avg_positive": 0.7813543517674718,
+                "avg_neutral": 0.18903533495696528,
+                "avg_negative": 0.02961031031528754
+            },
+            "stock_return": 
+        }
+    }
+}
+

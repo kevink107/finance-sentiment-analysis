@@ -1,0 +1,11 @@
+{
+    "UNH_risks_2020": {
+        "running_score_positive": 47.98082518577576,
+        "running_score_neutral": 12.103486131876707,
+        "running_score_negative": 1.9156879223883152,
+        "chunks": 62,
+        "avg_positive": 0.7738842771899316,
+        "avg_neutral": 0.19521751825607592,
+        "avg_negative": 0.03089819229658573
+    }
+}

@@ -5,11 +5,11 @@ from sec_api.index import ExtractorApi
 # To run the program in terminal: python3 test-api.py
 
 # API Keys
-queryApi = QueryApi(api_key="d0532cfd64de3862cfa0ff24ee3b88fbaf543d61bb0c0e6d5ec54306f0d8dde1")
-extractorApi = ExtractorApi("d0532cfd64de3862cfa0ff24ee3b88fbaf543d61bb0c0e6d5ec54306f0d8dde1")
+queryApi = QueryApi(api_key="5ab252d05f9a151b9b4749a085c9780fb74380b8d048d8b5ccfa38e8df652808")
+extractorApi = ExtractorApi("5ab252d05f9a151b9b4749a085c9780fb74380b8d048d8b5ccfa38e8df652808")
 
 
-with open("companies_2021.json", "r") as companies_json_file: 
+with open("companies_2020.json", "r") as companies_json_file: 
   data = json.load(companies_json_file)
 
 companies = data["Companies"]
@@ -43,7 +43,7 @@ for i in range(0, len(companies)):
 
       # Save SEC filing
 
-      file_path = "filings/2021/" + ticker + "_filings_" + formType + "_" + year + ".json"
+      file_path = "filings/2020/" + ticker + "_filings_" + formType + "_" + year + ".json"
       with open(file_path, "w") as filings_json_file:
         json.dump(filings_query, filings_json_file)
 
@@ -68,16 +68,16 @@ for i in range(0, len(companies)):
       # Extract relevant sections in the filing
       if (formType == "10-K"): 
         risk_factors_section = extractorApi.get_section(filing_url, "1A", "text")
-        risk_file_path = "risks/" + ticker + "_risks_" + year
+        risk_file_path = "risks_2020/" + ticker + "_risks_" + year
         mda_section = extractorApi.get_section(filing_url, "7", "text")
-        mda_file_path = "mda/" + ticker + "_mda_" + year
+        mda_file_path = "mda_2020/" + ticker + "_mda_" + year
       
-      elif (formType == "10-Q"): 
-        risk_factors_section = extractorApi.get_section(filing_url, "part2item1a", "text")
-        risk_file_path = "risks/" + ticker + "_risks+" + year + "_q" + str(quarter)
-        mda_section = extractorApi.get_section(filing_url, "part1item2", "text")
-        mda_file_path = "mda/" + ticker + "_mda+" + year + "_q" + str(quarter)
-        quarter += 1
+      # elif (formType == "10-Q"): 
+      #   risk_factors_section = extractorApi.get_section(filing_url, "part2item1a", "text")
+      #   risk_file_path = "risks/" + ticker + "_risks+" + year + "_q" + str(quarter)
+      #   mda_section = extractorApi.get_section(filing_url, "part1item2", "text")
+      #   mda_file_path = "mda/" + ticker + "_mda+" + year + "_q" + str(quarter)
+      #   quarter += 1
 
       # Write new text files for the relevant sections
       with open(risk_file_path, "w", encoding="utf-8") as f:

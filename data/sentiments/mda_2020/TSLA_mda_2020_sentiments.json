@@ -1,0 +1,11 @@
+{
+    "TSLA_mda_2020": {
+        "running_score_positive": 73.66403070092201,
+        "running_score_neutral": 10.284472888335586,
+        "running_score_negative": 3.051496564876288,
+        "chunks": 87,
+        "avg_positive": 0.846712996562322,
+        "avg_neutral": 0.11821233204983432,
+        "avg_negative": 0.03507467315949757
+    }
+}

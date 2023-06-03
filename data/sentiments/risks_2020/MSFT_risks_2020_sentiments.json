@@ -1,0 +1,11 @@
+{
+    "MSFT_risks_2020": {
+        "running_score_positive": 49.20295625925064,
+        "running_score_neutral": 13.317017948254943,
+        "running_score_negative": 2.4800265710800886,
+        "chunks": 65,
+        "avg_positive": 0.7569685578346252,
+        "avg_neutral": 0.2048771992039222,
+        "avg_negative": 0.03815425493969367
+    }
+}

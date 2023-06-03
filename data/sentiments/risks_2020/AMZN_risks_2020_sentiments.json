@@ -1,0 +1,11 @@
+{
+    "AMZN_risks_2020": {
+        "running_score_positive": 40.9586198925972,
+        "running_score_neutral": 9.807151610031724,
+        "running_score_negative": 1.234228029847145,
+        "chunks": 52,
+        "avg_positive": 0.7876657671653308,
+        "avg_neutral": 0.188599069423687,
+        "avg_negative": 0.023735154420137405
+    }
+}

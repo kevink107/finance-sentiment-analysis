@@ -1,0 +1,11 @@
+{
+    "KO_mda_2020": {
+        "running_score_positive": 135.40118926763535,
+        "running_score_neutral": 22.793633682653308,
+        "running_score_negative": 5.805177408270538,
+        "chunks": 164,
+        "avg_positive": 0.8256170077294838,
+        "avg_neutral": 0.1389855712356909,
+        "avg_negative": 0.035397423221161815
+    }
+}

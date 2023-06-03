@@ -1,0 +1,11 @@
+{
+    "V_mda_2020": {
+        "running_score_positive": 53.26240122318268,
+        "running_score_neutral": 7.039978792890906,
+        "running_score_negative": 1.697619725484401,
+        "chunks": 62,
+        "avg_positive": 0.8590709874706883,
+        "avg_neutral": 0.11354804504662752,
+        "avg_negative": 0.027380963314264532
+    }
+}

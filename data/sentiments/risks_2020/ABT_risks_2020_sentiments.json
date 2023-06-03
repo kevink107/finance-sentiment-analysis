@@ -1,0 +1,11 @@
+{
+    "ABT_risks_2020": {
+        "running_score_positive": 20.307507932186127,
+        "running_score_neutral": 6.169692035764456,
+        "running_score_negative": 0.522800300270319,
+        "chunks": 27,
+        "avg_positive": 0.752129923414301,
+        "avg_neutral": 0.22850711243572058,
+        "avg_negative": 0.01936297408408589
+    }
+}

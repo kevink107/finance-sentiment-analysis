@@ -1,0 +1,11 @@
+{
+    "COST_mda_2020": {
+        "running_score_positive": 27.118038713932037,
+        "running_score_neutral": 5.264746073633432,
+        "running_score_negative": 1.6172152357175946,
+        "chunks": 34,
+        "avg_positive": 0.7975893739391776,
+        "avg_neutral": 0.1548454727539245,
+        "avg_negative": 0.04756515399169396
+    }
+}

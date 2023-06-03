@@ -1,0 +1,87 @@
+{
+    "Companies": [
+        {
+            "ticker": "AAPL"
+        },
+        {
+            "ticker": "MSFT"
+        },
+        {
+            "ticker": "AMZN"
+        },
+        {
+            "ticker": "NVDA"
+        },
+        {
+            "ticker": "GOOG"
+        },
+        {
+            "ticker": "BRK.B"
+        },
+        {
+            "ticker": "META"
+        },
+        {
+            "ticker": "UNH"
+        },
+        {
+            "ticker": "TSLA"
+        },
+        {
+            "ticker": "JNJ"
+        },
+        {
+            "ticker": "PG"
+        },
+        {
+            "ticker": "V"
+        },
+        {
+            "ticker": "LLY"
+        },
+        {
+            "ticker": "MRK"
+        },
+        {
+            "ticker": "HD"
+        },
+        {
+            "ticker": "PEP"
+        },
+        {
+            "ticker": "ABBV"
+        },
+        {
+            "ticker": "AVGO"
+        },
+        {
+            "ticker": "KO"
+        },
+        {
+            "ticker": "COST"
+        },
+        {
+            "ticker": "TMO"
+        },
+        {
+            "ticker": "PFE"
+        },
+        {
+            "ticker": "WMT"
+        },
+        {
+            "ticker": "ABT"
+        }
+    ],
+    "Forms": [
+        {
+            "formType": "10-K",
+            "dates": [
+                {
+                    "year": "2020",
+                    "filedAt": "{2020-01-01 TO 2020-12-31}"
+                }
+            ]
+        }
+    ]
+} 

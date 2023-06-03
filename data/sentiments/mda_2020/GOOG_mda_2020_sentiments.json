@@ -1,0 +1,11 @@
+{
+    "GOOG_mda_2020": {
+        "running_score_positive": 51.5793319940567,
+        "running_score_neutral": 9.95362695865333,
+        "running_score_negative": 2.467040711082518,
+        "chunks": 64,
+        "avg_positive": 0.805927062407136,
+        "avg_neutral": 0.1555254212289583,
+        "avg_negative": 0.038547511110664345
+    }
+}

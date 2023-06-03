@@ -1,0 +1,11 @@
+{
+    "ABT_mda_2020": {
+        "running_score_positive": 75.9348333477974,
+        "running_score_neutral": 14.057136479765177,
+        "running_score_negative": 3.008030810393393,
+        "chunks": 93,
+        "avg_positive": 0.8165035843849182,
+        "avg_neutral": 0.15115200515876534,
+        "avg_negative": 0.03234441731605799
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "AVGO_mda_2020": {
+        "running_score_positive": 64.74077996611595,
+        "running_score_neutral": 11.54963855072856,
+        "running_score_negative": 3.7095824060961604,
+        "chunks": 80,
+        "avg_positive": 0.8092597495764494,
+        "avg_neutral": 0.144370481884107,
+        "avg_negative": 0.046369780076202
+    }
+}

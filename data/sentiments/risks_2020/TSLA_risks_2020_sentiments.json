@@ -1,0 +1,11 @@
+{
+    "TSLA_risks_2020": {
+        "running_score_positive": 74.07841384410858,
+        "running_score_neutral": 16.366984581574798,
+        "running_score_negative": 3.5546020520851016,
+        "chunks": 94,
+        "avg_positive": 0.7880682323841338,
+        "avg_neutral": 0.17411685725079573,
+        "avg_negative": 0.03781491544771385
+    }
+}

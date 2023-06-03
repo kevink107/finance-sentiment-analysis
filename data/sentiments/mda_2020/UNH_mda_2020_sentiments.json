@@ -1,0 +1,11 @@
+{
+    "UNH_mda_2020": {
+        "running_score_positive": 35.00752291083336,
+        "running_score_neutral": 6.231471693143249,
+        "running_score_negative": 1.7610059650614858,
+        "chunks": 43,
+        "avg_positive": 0.8141284397868223,
+        "avg_neutral": 0.14491794635216856,
+        "avg_negative": 0.04095362709445316
+    }
+}

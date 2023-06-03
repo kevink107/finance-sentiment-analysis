@@ -1,0 +1,11 @@
+{
+    "JNJ_mda_2020": {
+        "running_score_positive": 56.86430740356445,
+        "running_score_neutral": 10.253982104361057,
+        "running_score_negative": 2.8817108059301972,
+        "chunks": 70,
+        "avg_positive": 0.8123472486223493,
+        "avg_neutral": 0.1464854586337294,
+        "avg_negative": 0.04116729722757425
+    }
+}

@@ -4,7 +4,7 @@ import time
 import json
 
 API_URL = "https://api-inference.huggingface.co/models/ProsusAI/finbert"
-headers = {"Authorization": f"Bearer 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"}
+headers = {"Authorization": f"Bearer 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"}
 
 
 def query(payload):
@@ -128,11 +128,12 @@ def get_sentiments_json(directory, file):
 
 
 if __name__ == "__main__":
-    # Run the two lines below to clean up the files and get rid of special characters
-    # clean_up_files('mda_2021')
-    # clean_up_files('risks_2021')
+    # Run the two lines below to clean up the files and get rid of special characters - only need to do ONCE
+    # clean_up_files('mda_2020')
+    # clean_up_files('risks_2020')
 
     # Below: first parameter is just the folder of the file; second is the file name
-    get_sentiments_json(directory='risks_2021', file='V_risks_2021')
-    get_sentiments_json(directory='risks_2021', file='WMT_risks_2021')
+    get_sentiments_json(directory='risks_2020', file='UNH_risks_2020')
+    get_sentiments_json(directory='risks_2020', file='V_risks_2020')
+    get_sentiments_json(directory='risks_2020', file='WMT_risks_2020')
     pass

@@ -1,0 +1,11 @@
+{
+    "PFE_risks_2020": {
+        "running_score_positive": 72.84705516695976,
+        "running_score_neutral": 21.178881576284766,
+        "running_score_negative": 3.9740631515160203,
+        "chunks": 98,
+        "avg_positive": 0.7433372976220384,
+        "avg_neutral": 0.2161110364927017,
+        "avg_negative": 0.040551664811387965
+    }
+}

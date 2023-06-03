@@ -1,0 +1,11 @@
+{
+    "V_risks_2020": {
+        "running_score_positive": 52.71192815899849,
+        "running_score_neutral": 12.586921637877822,
+        "running_score_negative": 2.701151069253683,
+        "chunks": 68,
+        "avg_positive": 0.775175414102919,
+        "avg_neutral": 0.18510178879232092,
+        "avg_negative": 0.039722809841965925
+    }
+}

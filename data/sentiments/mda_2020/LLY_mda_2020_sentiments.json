@@ -1,0 +1,11 @@
+{
+    "LLY_mda_2020": {
+        "running_score_positive": 68.03411629796028,
+        "running_score_neutral": 11.300626093521714,
+        "running_score_negative": 3.6652577752247453,
+        "chunks": 83,
+        "avg_positive": 0.8196881481681961,
+        "avg_neutral": 0.13615212160869536,
+        "avg_negative": 0.044159732231623436
+    }
+}

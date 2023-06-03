@@ -1,0 +1,11 @@
+{
+    "TMO_risks_2020": {
+        "running_score_positive": 31.760251492261887,
+        "running_score_neutral": 8.238130036741495,
+        "running_score_negative": 1.001618486829102,
+        "chunks": 41,
+        "avg_positive": 0.7746402802990704,
+        "avg_neutral": 0.20093000089613403,
+        "avg_negative": 0.024429719190953707
+    }
+}

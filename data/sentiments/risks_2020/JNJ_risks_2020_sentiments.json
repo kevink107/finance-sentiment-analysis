@@ -1,0 +1,11 @@
+{
+    "JNJ_risks_2020": {
+        "running_score_positive": 21.554546684026718,
+        "running_score_neutral": 5.643098756670952,
+        "running_score_negative": 0.8023547995835543,
+        "chunks": 28,
+        "avg_positive": 0.76980523871524,
+        "avg_neutral": 0.20153924130967685,
+        "avg_negative": 0.02865552855655551
+    }
+}
