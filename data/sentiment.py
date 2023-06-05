@@ -1,3 +1,15 @@
+'''
+Authors:
+- Arijeet Grewal (arijeet.s.grewal.23@dartmouth.edu)
+- Kevin King (kevin.m.king.24@dartmouth.edu)
+- Seamus O'Connell (seamus.c.o'connell.23@dartmouth.edu)
+
+For the Dartmouth College course COSC72 Final Project
+
+Description:
+- This program extracts sentiment scores using FinBERT on the risk factors and MD&A sections from the 10-K and 10-Q filings of the companies in the S&P 500.
+'''
+
 import os
 import requests
 import time
