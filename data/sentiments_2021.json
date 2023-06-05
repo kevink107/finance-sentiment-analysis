@@ -19,7 +19,7 @@
                 "avg_neutral": 0.21833326256097252,
                 "avg_negative": 0.024920312771156652
             },
-            "stock_return": 
+            "stock_return": -0.008455135
         }
     },
     "BRK" : {
@@ -42,7 +42,7 @@
                 "avg_neutral": 0.16763732660757868,
                 "avg_negative": 0.02565045948875578
             },
-            "stock_return":
+            "stock_return": -0.008941878
         }
     },
     "ABT" : {
@@ -65,7 +65,7 @@
                 "avg_neutral": 0.1687413588166237,
                 "avg_negative": 0.020817106993248066
             },
-            "stock_return": 
+            "stock_return": 0.015176646
 
         }
     },
@@ -89,7 +89,7 @@
                 "avg_neutral": 0.20712615467607975,
                 "avg_negative": 0.03312650611624122
             },
-            "stock_return": 
+            "stock_return": 0.104058108
         }
     },
     "ABBV" : {
@@ -112,7 +112,7 @@
                 "avg_neutral": 0.17033352878960697,
                 "avg_negative": 0.02173205886713483
             },
-            "stock_return": 
+            "stock_return": 0.031523764
         }
     },
     "AVGO" : {
@@ -135,7 +135,7 @@
                 "avg_neutral": 0.16855553965462317,
                 "avg_negative": 0.02754845328186408
             },
-            "stock_return": 
+            "stock_return": 0.071083328
         }
     },
     "COST" : {
@@ -158,7 +158,7 @@
                 "avg_neutral": 0.16937808892024414,
                 "avg_negative": 0.02205957399149026
             },
-            "stock_return": 
+            "stock_return": -0.00210649
         }
     },
     "GOOG" : {
@@ -181,7 +181,7 @@
                 "avg_neutral": 0.1997654985111111,
                 "avg_negative": 0.02908645869972996
             },
-            "stock_return": 
+            "stock_return": 0.025924999
         }
     },
     "MRK" : {
@@ -204,7 +204,7 @@
                 "avg_neutral": 0.1774180173139337,
                 "avg_negative": 0.03265851713769453
             },
-            "stock_return":
+            "stock_return": 0.058767515
         }
     },
     "MSFT" : {
@@ -227,7 +227,7 @@
                 "avg_neutral": 0.20043089176927295,
                 "avg_negative": 0.038571448757180146
             },
-            "stock_return": 
+            "stock_return": 0.011529593
         }
     },
     "KO" : {
@@ -250,7 +250,7 @@
                 "avg_neutral": 0.17484022917992928,
                 "avg_negative": 0.045241824285510705
             },
-            "stock_return": 
+            "stock_return": -0.009114167
         }
     },
     "META" : {
@@ -273,7 +273,7 @@
                 "avg_neutral": 0.19828460965719488,
                 "avg_negative": 0.032138757315682775
             },
-            "stock_return": 
+            "stock_return": -0.293900929
         }
     },
     "HD" : {
@@ -296,7 +296,7 @@
                 "avg_neutral": 0.19120166698121466,
                 "avg_negative": 0.04110691527603194
             },
-            "stock_return": 
+            "stock_return": 0.052658804
         }
     },
     "JNJ" : {
@@ -319,7 +319,7 @@
                 "avg_neutral": 0.1813901685592201,
                 "avg_negative": 0.030159331909898255
             },
-            "stock_return": 
+            "stock_return": -0.054243167
         }
     },
     "LLY" : {
@@ -342,7 +342,7 @@
                 "avg_neutral": 0.17037438840738364,
                 "avg_negative": 0.02231436919953142
             },
-            "stock_return": 
+            "stock_return": 0.06289466
         }
     },
     "NVDA" : {
@@ -365,7 +365,7 @@
                 "avg_neutral": 0.14997691922969575,
                 "avg_negative": 0.02640969532987346
             },
-            "stock_return": 
+            "stock_return": -0.063573173
         }
     },
     "TSLA" : {
@@ -388,7 +388,7 @@
                 "avg_neutral": 0.20935101320638377,
                 "avg_negative": 0.03788852298303562           
             },
-            "stock_return":
+            "stock_return": -0.051509759
         }
     },
     "PG" : {
@@ -411,7 +411,7 @@
                 "avg_neutral": 0.13977661590491022,
                 "avg_negative": 0.029453422182372638
             },
-            "stock_return": 
+            "stock_return": 0.008
         }
     },
     "PFE" : {
@@ -434,7 +434,7 @@
                 "avg_neutral": 0.22443056690760635,
                 "avg_negative": 0.034080677552882466
             },
-            "stock_return": 
+            "stock_return": 0.020482185
         }
     },
     "V" : {
@@ -457,7 +457,7 @@
                 "avg_neutral": 0.1936259941395485,
                 "avg_negative": 0.04601655530771523           
             },
-            "stock_return": 
+            "stock_return": -0.008826685
         }
     },
     "PEP" : {
@@ -480,7 +480,7 @@
                 "avg_neutral": 0.1652408824302256,
                 "avg_negative": 0.02286132558947429
             },
-            "stock_return": 
+            "stock_return": -0.030184948
 
         }
     },
@@ -504,7 +504,7 @@
                 "avg_neutral": 0.18641067624314508,
                 "avg_negative": 0.030056119159753644          
             },
-            "stock_return": 
+            "stock_return": -0.025063238
         }
     },
     "TMO" : {
@@ -528,7 +528,7 @@
                 "avg_negative": 0.02573042623275383
                 
             },
-            "stock_return": 
+            "stock_return": 0.048639752
         }
     },
     "WMT" : {
@@ -551,7 +551,7 @@
                 "avg_neutral": 0.1958533802284644,
                 "avg_negative": 0.030900403613654467
             },
-            "stock_return": 
+            "stock_return": 0.039381586
         }
     }
 }
